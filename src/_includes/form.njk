@@ -1,6 +1,7 @@
 {% set f = gforms[formId] %}
 {% if f %}
 <form class="gform" data-form-id="{{ formId }}" data-endpoint="{{ site.form_endpoint }}" data-original="{{ original_url }}" method="post" novalidate>
+<input type="hidden" name="_subject" value="New website form: {{ formId }}"><input type="hidden" name="_template" value="table"><input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
   <p class="req-note">“<span class="req">*</span>” indicates required fields</p>
   {% for fld in f.fields %}
   {% set rq = ' required' if fld.required else '' %}
