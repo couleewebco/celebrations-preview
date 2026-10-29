@@ -1,0 +1,135 @@
+# Pages CMS config (https://pagescms.org) – free visual editor for this site.
+# Sign in at pagescms.org with GitHub, pick the repo, and edit text, photos and videos in the browser.
+media:
+  input: src/media
+  output: /media
+content:
+  - name: pages
+    label: Pages
+    type: collection
+    path: src/content/pages
+    filename: "{primary}.md"
+    format: yaml-frontmatter
+    view:
+      primary: title
+      fields: [title, heading]
+      sort: [title]
+      default: { sort: title, order: asc }
+    fields:
+      - { name: title, label: Page title (browser tab), type: string, required: true }
+      - { name: heading, label: Big page heading (optional), type: string }
+      - { name: description, label: Search description (SEO), type: text }
+      - { name: seo_title, label: Search title (SEO), type: string }
+      - name: hero
+        label: Top banner (photo or video)
+        type: object
+        fields:
+          - { name: image, label: Banner photo, type: image }
+          - { name: video, label: Banner video (.mp4), type: file, options: { extensions: [mp4] } }
+      - name: videos
+        label: Videos on this page
+        type: object
+        list: true
+        fields:
+          - { name: type, label: Type (file or youtube), type: select, options: { values: [file, youtube] } }
+          - { name: src, label: Video file (.mp4) – for type "file", type: file, options: { extensions: [mp4] } }
+          - { name: id, label: YouTube video ID – for type "youtube" (the part after v=), type: string }
+      - { name: forms, label: Form numbers to show at the bottom (advanced), type: number, list: true }
+      - { name: body, label: Page content, type: rich-text }
+
+  - name: stories
+    label: Past Weddings
+    type: collection
+    path: src/content/stories
+    filename: "{primary}.md"
+    format: yaml-frontmatter
+    view:
+      primary: title
+      fields: [title, date]
+      sort: [date, title]
+      default: { sort: date, order: desc }
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: heading, label: Big heading (optional), type: string }
+      - { name: description, label: Search description (SEO), type: text }
+      - { name: date, label: Date, type: date }
+      - { name: body, label: Story and photos, type: rich-text }
+
+  - name: blog
+    label: Wedding Ideas Blog
+    type: collection
+    path: src/content/blog
+    filename: "{primary}.md"
+    format: yaml-frontmatter
+    view:
+      primary: title
+      fields: [title, date]
+      sort: [date, title]
+      default: { sort: date, order: desc }
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: heading, label: Big heading (optional), type: string }
+      - { name: description, label: Search description (SEO), type: text }
+      - { name: date, label: Date, type: date }
+      - { name: body, label: Post, type: rich-text }
+
+  - name: site
+    label: Site Settings (phone, menu, footer, reviews)
+    type: file
+    path: src/_data/site.json
+    format: json
+    fields:
+      - { name: name, label: Business name, type: string }
+      - { name: tagline, label: Tagline, type: string }
+      - { name: phone, label: Phone (as shown), type: string }
+      - { name: phone_tel, label: Phone for tap-to-call (e.g. +16087833335), type: string }
+      - { name: email, label: Email, type: string }
+      - { name: noindex, label: "Hide from Google (turn OFF when the site goes live!)", type: boolean }
+      - { name: form_endpoint, label: Form delivery address (from Formspree/Web3Forms – see README), type: string }
+      - { name: copyright, label: Footer copyright line, type: string }
+      - name: cta_primary
+        label: Main button (Book A Tour)
+        type: object
+        fields: [{ name: label, type: string }, { name: url, type: string }]
+      - name: cta_secondary
+        label: Second button (Check Open Dates)
+        type: object
+        fields: [{ name: label, type: string }, { name: url, type: string }]
+      - name: footer_quick_links
+        label: Footer quick links
+        type: object
+        list: true
+        fields: [{ name: label, type: string }, { name: url, type: string }]
+      - name: footer_review_links
+        label: Footer review links
+        type: object
+        list: true
+        fields: [{ name: label, type: string }, { name: url, type: string }]
+      - name: footer_images
+        label: Footer photos
+        type: image
+        list: true
+      - name: rating_badges
+        label: Rating badges on home page
+        type: object
+        list: true
+        fields: [{ name: source, type: string }, { name: text, type: string }, { name: url, type: string }]
+      - name: nav
+        label: Main menu (3 levels max)
+        type: object
+        list: true
+        fields:
+          - { name: label, type: string }
+          - { name: url, type: string }
+          - name: children
+            label: Sub-menu
+            type: object
+            list: true
+            fields:
+              - { name: label, type: string }
+              - { name: url, type: string }
+              - name: children
+                label: Sub-sub-menu
+                type: object
+                list: true
+                fields: [{ name: label, type: string }, { name: url, type: string }]

@@ -1,0 +1,32 @@
+<section class="visit">
+  <div class="wrap visit-grid">
+    <div>
+      <h2>Contact Info</h2>
+      <p><a href="tel:{{ site.phone_tel }}">{{ site.phone }}</a><br>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
+      <a href="{{ site.maps_link }}" target="_blank" rel="noopener">{{ site.address.street }}, {{ site.address.city }}, {{ site.address.state }} {{ site.address.zip }}</a></p>
+      <p class="btnrow"><a class="btn gold" href="{{ site.cta_primary.url }}">{{ site.cta_primary.label }}</a> <a class="btn ghost" href="{{ site.cta_secondary.url }}">{{ site.cta_secondary.label }}</a></p>
+    </div>
+    <div class="map"><iframe title="Map to Celebrations on the River" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="{{ site.maps_embed }}"></iframe></div>
+  </div>
+</section>
+<footer class="site-footer">
+  <div class="wrap foot-grid">
+    <div>
+      <img src="{{ site.logo_white }}" alt="{{ site.name }}" width="200" height="75" loading="lazy">
+      <p>{{ site.address.street }}<br>{{ site.address.city }}, {{ site.address.state }} {{ site.address.zip }}</p>
+      <p><a href="tel:{{ site.phone_tel }}">{{ site.phone }}</a><br><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      <p class="social">{% for s in site.social %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.label }}</a>{% endfor %}</p>
+    </div>
+    <div>
+      <h3>Quick Links</h3>
+      <ul>{% for l in site.footer_quick_links %}<li><a href="{{ l.url }}">{{ l.label }}</a></li>{% endfor %}</ul>
+    </div>
+    <div>
+      <h3>Check Out Our Reviews!</h3>
+      <ul>{% for l in site.footer_review_links %}<li><a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a></li>{% endfor %}</ul>
+      <div class="thumbs">{% for i in site.footer_images %}<a href="/gallery/"><img src="{{ i }}" alt="Celebrations on the River photo gallery" loading="lazy"></a>{% endfor %}</div>
+    </div>
+  </div>
+  <p class="copy">{{ site.copyright }}</p>
+</footer>

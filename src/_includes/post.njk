@@ -1,0 +1,19 @@
+---
+layout: base.njk
+bodyClass: inner post
+---
+<section class="page-hero"><div class="wrap"><p class="eyebrow">{{ 'Real Wedding' if type == 'story' else 'Wedding Ideas and Inspirations' }}{% if date %} · {{ date | readableDate }}{% endif %}</p><h1>{{ heading or title }}</h1></div></section>
+<div class="wrap content-wrap narrow">
+<article class="prose">
+{{ content | safe }}
+</article>
+<nav class="postnav">
+{% set list = collections.storyList if type == 'story' else collections.blogList %}
+{% for p in list %}{% if p.url == page.url %}
+  {% if not loop.last %}<a class="prev" href="{{ list[loop.index0 + 1].url }}">← {{ list[loop.index0 + 1].data.heading or list[loop.index0 + 1].data.title }}</a>{% endif %}
+  {% if not loop.first %}<a class="next" href="{{ list[loop.index0 - 1].url }}">{{ list[loop.index0 - 1].data.heading or list[loop.index0 - 1].data.title }} →</a>{% endif %}
+{% endif %}{% endfor %}
+</nav>
+<p><a class="btn ghost dark" href="{{ '/stories/' if type == 'story' else '/blog/' }}">{{ 'All Past Weddings' if type == 'story' else 'All Wedding Ideas' }}</a></p>
+</div>
+{% include "partials/cta.njk" %}

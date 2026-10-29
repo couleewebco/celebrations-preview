@@ -1,0 +1,21 @@
+---
+layout: base.njk
+bodyClass: home
+---
+<section class="hero">
+  {% if hero.video %}<video class="hero-vid" autoplay muted loop playsinline poster="{{ hero.poster }}"><source src="{{ hero.video }}" type="video/mp4"></video>{% else %}<img class="hero-img" src="{{ hero.image }}" alt="">{% endif %}
+  <div class="hero-shade"></div>
+  <div class="hero-in wrap">
+    <p class="eyebrow">{{ site.name }}</p>
+    <h1>{{ hero_title }}<span>{{ hero_sub }}</span></h1>
+    <p class="btnrow"><a class="btn gold" href="{{ site.cta_primary.url }}">{{ site.cta_primary.label }}</a> <a class="btn ghost" href="{{ site.cta_secondary.url }}">{{ site.cta_secondary.label }}</a> <a class="btn ghost call" href="tel:{{ site.phone_tel }}">Call {{ site.phone }}</a></p>
+    <p class="badges">{% for b in site.rating_badges %}<a href="{{ b.url }}" target="_blank" rel="noopener">★ {{ b.source }} {{ b.text }}</a>{% endfor %}</p>
+  </div>
+</section>
+<section class="venues-row"><div class="wrap grid3">
+{% for v in venues %}<a class="venue-card" href="{{ v.url }}"><img src="{{ v.image | thumb }}" alt="{{ v.title }} wedding venue at Celebrations on the River" loading="lazy"><span class="vt"><b>{{ v.title }}</b>{{ v.capacity }}</span></a>{% endfor %}
+</div></section>
+<div class="wrap content-wrap">
+<article class="prose home-prose">{{ content | safe }}</article>
+</div>
+{% include "partials/cta.njk" %}

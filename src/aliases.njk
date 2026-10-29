@@ -1,0 +1,9 @@
+---
+pagination:
+  data: aliases
+  size: 1
+  alias: al
+permalink: "/{{ al }}/index.html"
+eleventyExcludeFromCollections: true
+---
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Redirecting…</title><meta name="robots" content="noindex"><link rel="canonical" href="/{{ aliases[al] }}/"><meta http-equiv="refresh" content="0; url={{ env.prefix }}{{ aliases[al] }}/"></head><body><p>This page has moved to <a href="/{{ aliases[al] }}/">/{{ aliases[al] }}/</a>.</p></body></html>

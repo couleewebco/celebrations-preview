@@ -1,0 +1,14 @@
+{
+  "name": "celebrations-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Celebrations on the River \u2013 static website (Eleventy)",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  },
+  "type": "module"
+}

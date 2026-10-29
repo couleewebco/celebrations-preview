@@ -1,0 +1,2452 @@
+{
+ "8": {
+  "id": "8",
+  "fields": [
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_11",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_12",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Company Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_1",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_3",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "phone",
+    "label": "Phone number",
+    "required": true,
+    "description": "",
+    "name": "f_input_2",
+    "placeholder": "(999) 999-9999",
+    "input": "tel"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_22_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   },
+   {
+    "type": "textarea",
+    "label": "What Date(s) Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_13",
+    "placeholder": "",
+    "input": "textarea"
+   },
+   {
+    "type": "text",
+    "label": "Start/End Times",
+    "required": true,
+    "description": "",
+    "name": "f_input_14",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "number",
+    "label": "Number of Guests?",
+    "required": true,
+    "description": "",
+    "name": "f_input_6",
+    "placeholder": "",
+    "input": "number"
+   },
+   {
+    "type": "select",
+    "label": "Type of Event?",
+    "required": false,
+    "description": "",
+    "name": "f_input_20",
+    "options": [
+     "Holiday Party",
+     "Employee/Client Appreciation Party",
+     "Conference/Meeting",
+     "Dinner Party",
+     "Fundraiser",
+     "Other"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "What Food Options Are You Interested Serving? (Select all that apply)",
+    "required": true,
+    "description": "",
+    "name": "f_input_15_1",
+    "options": [
+     "Breakfast",
+     "Lunch",
+     "Appetizers",
+     "Salad",
+     "Dinner - Buffet",
+     "Dinner - Plated",
+     "Dessert",
+     "No Food"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "What Drink Options Are You Interested in Serving? (Select all that apply)",
+    "required": true,
+    "description": "",
+    "name": "f_input_16_1",
+    "options": [
+     "(1) Drink Ticket/Person",
+     "(2) Drink Tickets/Person",
+     "Open Bar",
+     "Cash Bar",
+     "Unlimited Coffee",
+     "Unlimited Soda"
+    ]
+   },
+   {
+    "type": "radio",
+    "label": "Decorations",
+    "required": true,
+    "description": "",
+    "name": "f_input_18",
+    "options": [
+     "Basic Decorations",
+     "Standard Decorations",
+     "Premium Decorations"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Audio/Visual",
+    "required": false,
+    "description": "",
+    "name": "f_input_17_1",
+    "options": [
+     "Screen/Projector",
+     "Microphone",
+     "Background Music"
+    ]
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_7",
+    "placeholder": "Tell us about your event",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "business-meeting-event-quote"
+ },
+ "15": {
+  "id": "15",
+  "fields": [
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_3",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_4",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_5",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "text",
+    "label": "Phone Number",
+    "required": true,
+    "description": "",
+    "name": "f_input_12",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "How Do You Prefer to be Contacted?",
+    "required": true,
+    "description": "",
+    "name": "f_input_20_1",
+    "options": [
+     "Phone",
+     "Text",
+     "Email"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "What Position(s) Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_13_1",
+    "options": [
+     "Wedding/Event Host",
+     "Banquet Bartender",
+     "Banquet Busser",
+     "Event Setup Crew",
+     "Dishwasher",
+     "Sales Manager"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "How Many Hours/Week Do You Want?",
+    "required": true,
+    "description": "",
+    "name": "f_input_16_1",
+    "options": [
+     "10 Hours/Week or Less",
+     "11-30 Hours/Week",
+     "40+ Hours/Week"
+    ]
+   },
+   {
+    "type": "text",
+    "label": "When Would You Be Available to Start?",
+    "required": true,
+    "description": "",
+    "name": "f_input_17",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "radio",
+    "label": "Are You Interested in Scheduling a Preliminary Phone Interview?",
+    "required": true,
+    "description": "",
+    "name": "f_input_18",
+    "options": [
+     "Yes",
+     "No",
+     "Maybe Later"
+    ]
+   },
+   {
+    "type": "textarea",
+    "label": "List 2-3 Days/Times You Are Available for a Phone Interview:",
+    "required": true,
+    "description": "",
+    "name": "f_input_19",
+    "placeholder": "",
+    "input": "textarea"
+   },
+   {
+    "type": "fileupload",
+    "label": "Upload Your Resume...",
+    "required": false,
+    "description": "Max. file size: 1 GB.",
+    "name": "f_input_14"
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": true,
+    "description": "",
+    "name": "f_input_11",
+    "placeholder": "Please share any additional information you want us to know...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "career"
+ },
+ "26": {
+  "id": "26",
+  "fields": [
+   {
+    "type": "text",
+    "label": "Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_1",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Company or Event Name (If Applicable)",
+    "required": false,
+    "description": "",
+    "name": "f_input_24",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_18",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "phone",
+    "label": "Phone",
+    "required": true,
+    "description": "",
+    "name": "f_input_33",
+    "placeholder": "",
+    "input": "tel"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_64_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   },
+   {
+    "type": "number",
+    "label": "Number of Guests?",
+    "required": true,
+    "description": "",
+    "name": "f_input_62",
+    "placeholder": "",
+    "input": "number"
+   },
+   {
+    "type": "date",
+    "label": "Date of Event? (1st Choice)",
+    "required": false,
+    "description": "Not sure on the date? Leave this field blank.",
+    "name": "f_input_63",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "date",
+    "label": "Date of Event? (2nd Choice)",
+    "required": false,
+    "description": "Not sure on the date? Leave this field blank.",
+    "name": "f_input_25",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "radio",
+    "label": "Pick Up or Delivery?",
+    "required": true,
+    "description": "",
+    "name": "f_input_41",
+    "options": [
+     "Pick Up",
+     "Delivery & Set Up Only. (We deliver and setup only. You are responsible for clean up)",
+     "Delivery & Full Service. (We deliver, setup, attend the buffet or serve plated meals at tables. Cleanup done by Celebrations)"
+    ]
+   },
+   {
+    "type": "text",
+    "label": "What is the Delivery Address?",
+    "required": true,
+    "description": "",
+    "name": "f_input_32",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "Which catering options are you interested in?",
+    "required": true,
+    "description": "",
+    "name": "f_input_30_1",
+    "options": [
+     "Appetizers",
+     "Entrees",
+     "Side Salad",
+     "Lunch",
+     "Breakfast",
+     "Desserts",
+     "Beverages"
+    ]
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "After submitting your inquiry, we will confirm availability and send you a detailed quote.",
+    "name": "f_input_11",
+    "placeholder": "Please share any special requests, notes or additional information...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "caterer-catering-la-crosse-wi"
+ },
+ "10": {
+  "id": "10",
+  "fields": [
+   {
+    "type": "text",
+    "label": "Your First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_1",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Your Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_2",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_18",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "text",
+    "label": "Phone Number",
+    "required": true,
+    "description": "",
+    "name": "f_input_14",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_24_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   },
+   {
+    "type": "text",
+    "label": "Desired Date(s) of Event?",
+    "required": true,
+    "description": "",
+    "name": "f_input_16",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Estimated # of Guests?",
+    "required": true,
+    "description": "",
+    "name": "f_input_4",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "What Package(s) Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_17_1",
+    "options": [
+     "Silver $25/Person - Celebrations of Life Package",
+     "Gold $40/Person - Celebrations of Life Package",
+     "Platinum $60/Person - Celebrations of Life Package",
+     "Custom/Undecided"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Interested in Scheduling a Tour?",
+    "required": true,
+    "description": "",
+    "name": "f_input_19_1",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   {
+    "type": "date",
+    "label": "Desired Tour Date & Time?",
+    "required": true,
+    "description": "",
+    "name": "f_input_22",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "time",
+    "label": "Time",
+    "required": true,
+    "description": "",
+    "name": "f_input_21_"
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_11",
+    "placeholder": "Please share any special requests, notes or additional information...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "celebration-of-life"
+ },
+ "29": {
+  "id": "29",
+  "fields": [
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_11",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_12",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_3",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "phone",
+    "label": "Phone Number",
+    "required": true,
+    "description": "",
+    "name": "f_input_2",
+    "placeholder": "(999) 999-9999",
+    "input": "tel"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_33_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "What Type of Event Are You Hosting?",
+    "required": true,
+    "description": "",
+    "name": "f_input_31_1",
+    "options": [
+     "Wedding",
+     "Business Meeting or Event",
+     "Celebration of Life",
+     "Charity/Fundraiser",
+     "Other"
+    ]
+   },
+   {
+    "type": "text",
+    "label": "What Date(s)  Are You Interested In? If Unsure, What Month(s)/Year(s)?",
+    "required": true,
+    "description": "",
+    "name": "f_input_24",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "What Day(s) Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_15_1",
+    "options": [
+     "Friday(s)",
+     "Saturday(s)",
+     "Sunday(s)",
+     "Monday(s) - Thursday(s)"
+    ]
+   },
+   {
+    "type": "number",
+    "label": "Estimated Guest Count?",
+    "required": true,
+    "description": "",
+    "name": "f_input_6",
+    "placeholder": "",
+    "input": "number"
+   },
+   {
+    "type": "checkbox",
+    "label": "Are You Interested in a Specific Venue?",
+    "required": true,
+    "description": "",
+    "name": "f_input_21_1",
+    "options": [
+     "Center Court (Currently VIewing)",
+     "Court Yard",
+     "River Park",
+     "Undecided/Not Sure"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Are You Interested in Scheduling a Tour?",
+    "required": true,
+    "description": "",
+    "name": "f_input_25_1",
+    "options": [
+     "Yes",
+     "No",
+     "Maybe, but not at this time"
+    ]
+   },
+   {
+    "type": "date",
+    "label": "Desired Tour Date & Time? (1st Choice)",
+    "required": true,
+    "description": "",
+    "name": "f_input_26",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "time",
+    "label": "Time",
+    "required": true,
+    "description": "",
+    "name": "f_input_27_"
+   },
+   {
+    "type": "date",
+    "label": "Desired Tour Date & Time? (2nd Choice)*",
+    "required": true,
+    "description": "",
+    "name": "f_input_28",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "time",
+    "label": "Time",
+    "required": true,
+    "description": "",
+    "name": "f_input_30_"
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_7",
+    "placeholder": "Add questions or any notes you want to share...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "center-court-la-crosse-wedding-venue"
+ },
+ "20": {
+  "id": "20",
+  "fields": [
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_11",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_12",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_3",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "phone",
+    "label": "Phone Number",
+    "required": true,
+    "description": "",
+    "name": "f_input_2",
+    "placeholder": "(999) 999-9999",
+    "input": "tel"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_26_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   },
+   {
+    "type": "text",
+    "label": "What Date(s) or Month(s) Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_24",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Year?",
+    "required": true,
+    "description": "",
+    "name": "f_input_23",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "What Day(s) of the Week Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_15_1",
+    "options": [
+     "Friday(s)",
+     "Saturday(s)",
+     "Sunday(s)",
+     "Monday(s) - Thursday(s)"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Are You Interested in a Specific Venue?",
+    "required": true,
+    "description": "",
+    "name": "f_input_21_1",
+    "options": [
+     "Center Court",
+     "Court Yard",
+     "River Park",
+     "Undecided/Not Sure"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Type of Event?",
+    "required": true,
+    "description": "",
+    "name": "f_input_22_1",
+    "options": [
+     "Wedding",
+     "Business Event/Meeting",
+     "Holiday Party",
+     "Celebration of Life",
+     "Other"
+    ]
+   },
+   {
+    "type": "number",
+    "label": "Estimated Guest Count?",
+    "required": true,
+    "description": "",
+    "name": "f_input_6",
+    "placeholder": "",
+    "input": "number"
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_7",
+    "placeholder": "Any notes you want to share...?",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "check-open-dates"
+ },
+ "6": {
+  "id": "6",
+  "fields": [
+   {
+    "type": "text",
+    "label": "Your Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_15",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_18",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "phone",
+    "label": "Phone",
+    "required": true,
+    "description": "",
+    "name": "f_input_19",
+    "placeholder": "",
+    "input": "tel"
+   },
+   {
+    "type": "checkbox",
+    "label": "How Do Your Prefer To Be Contacted?",
+    "required": true,
+    "description": "",
+    "name": "f_input_22_1",
+    "options": [
+     "Email",
+     "Phone",
+     "Text"
+    ]
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": true,
+    "description": "",
+    "name": "f_input_20",
+    "placeholder": "",
+    "input": "textarea"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_25_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "contact-us"
+ },
+ "21": {
+  "id": "21",
+  "fields": [
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_1",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_2",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Company Name",
+    "required": false,
+    "description": "",
+    "name": "f_input_24",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_18",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "text",
+    "label": "Phone Number",
+    "required": true,
+    "description": "",
+    "name": "f_input_14",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_27_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   },
+   {
+    "type": "text",
+    "label": "Desired Date(s) of Holiday Party?",
+    "required": true,
+    "description": "",
+    "name": "f_input_16",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Estimated # of Guests?",
+    "required": true,
+    "description": "",
+    "name": "f_input_4",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "Are You Interested in a Specific Venue(s)?",
+    "required": true,
+    "description": "",
+    "name": "f_input_26_1",
+    "options": [
+     "Center Court",
+     "River Park",
+     "Court Yard",
+     "Not Sure"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "What Holiday Party Package(s) Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_17_1",
+    "options": [
+     "Holly & Jolly - $32/Person - Holiday Party",
+     "Jingle & Mingle - $50/Person - Holiday Party",
+     "Merry Everything - $70/Person - Holiday Party",
+     "Custom/Undecided"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Interested in Scheduling a Tour?",
+    "required": true,
+    "description": "",
+    "name": "f_input_19_1",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   {
+    "type": "date",
+    "label": "Desired Tour Date & Time?",
+    "required": true,
+    "description": "",
+    "name": "f_input_22",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "time",
+    "label": "Time",
+    "required": true,
+    "description": "",
+    "name": "f_input_21_"
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_11",
+    "placeholder": "Please share any special requests, notes or additional information...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "holiday-party-venue"
+ },
+ "24": {
+  "id": "24",
+  "fields": [
+   {
+    "type": "select",
+    "label": "How Many Guests Are You RSVPing For?",
+    "required": true,
+    "description": "",
+    "name": "f_input_19",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10"
+    ]
+   },
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_1",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_2",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_23",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_14",
+    "placeholder": "Add notes here...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "i-do-decor-showcase"
+ },
+ "19": {
+  "id": "19",
+  "fields": [
+   {
+    "type": "text",
+    "label": "What Open Date(s) Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_26",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_1",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_2",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_3",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "phone",
+    "label": "Phone #",
+    "required": true,
+    "description": "",
+    "name": "f_input_4",
+    "placeholder": "(999) 999-9999",
+    "input": "tel"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_29_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Estimated # of Guests?",
+    "required": true,
+    "description": "",
+    "name": "f_input_6_1",
+    "options": [
+     "100-150 Guests",
+     "150-1200 Guests",
+     "200-250 Guests",
+     "250+ Guests"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Interested in Scheduling a Tour?",
+    "required": true,
+    "description": "",
+    "name": "f_input_27_1",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   {
+    "type": "text",
+    "label": "Desired Tour Date & Time? (1st Choice)",
+    "required": true,
+    "description": "",
+    "name": "f_input_21",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "time",
+    "label": "Time",
+    "required": true,
+    "description": "",
+    "name": "f_input_17_"
+   },
+   {
+    "type": "text",
+    "label": "Desired Tour Date & Time? (2nd Choice)",
+    "required": true,
+    "description": "",
+    "name": "f_input_22",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "time",
+    "label": "Time",
+    "required": true,
+    "description": "",
+    "name": "f_input_18_"
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_14",
+    "placeholder": "Add notes here...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "open-date-discounts"
+ },
+ "30": {
+  "id": "30",
+  "fields": [
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_11",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_12",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_3",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "phone",
+    "label": "Phone Number",
+    "required": true,
+    "description": "",
+    "name": "f_input_2",
+    "placeholder": "(999) 999-9999",
+    "input": "tel"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_33_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "What Type of Event Are You Hosting?",
+    "required": true,
+    "description": "",
+    "name": "f_input_31_1",
+    "options": [
+     "Wedding",
+     "Business Meeting or Event",
+     "Celebration of Life",
+     "Charity/Fundraiser",
+     "Other"
+    ]
+   },
+   {
+    "type": "text",
+    "label": "What Date(s)  Are You Interested In? If Unsure, What Month(s)/Year(s)?",
+    "required": true,
+    "description": "",
+    "name": "f_input_24",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "What Day(s) Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_15_1",
+    "options": [
+     "Friday(s)",
+     "Saturday(s)",
+     "Sunday(s)",
+     "Monday(s) - Thursday(s)"
+    ]
+   },
+   {
+    "type": "number",
+    "label": "Estimated Guest Count?",
+    "required": true,
+    "description": "",
+    "name": "f_input_6",
+    "placeholder": "",
+    "input": "number"
+   },
+   {
+    "type": "checkbox",
+    "label": "Are You Interested in a Specific Venue?",
+    "required": true,
+    "description": "",
+    "name": "f_input_21_1",
+    "options": [
+     "River Park (Currently Viewing)",
+     "Center Court",
+     "Court Yard",
+     "Undecided/Not Sure"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Are You Interested in Scheduling a Tour?",
+    "required": true,
+    "description": "",
+    "name": "f_input_25_1",
+    "options": [
+     "Yes",
+     "No",
+     "Maybe, but not at this time"
+    ]
+   },
+   {
+    "type": "date",
+    "label": "Desired Tour Date & Time? (1st Choice)",
+    "required": true,
+    "description": "",
+    "name": "f_input_26",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "time",
+    "label": "Time",
+    "required": true,
+    "description": "",
+    "name": "f_input_27_"
+   },
+   {
+    "type": "date",
+    "label": "Desired Tour Date & Time? (2nd Choice)*",
+    "required": true,
+    "description": "",
+    "name": "f_input_28",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "time",
+    "label": "Time",
+    "required": true,
+    "description": "",
+    "name": "f_input_30_"
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_7",
+    "placeholder": "Add questions or any notes you want to share...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "river-park"
+ },
+ "2": {
+  "id": "2",
+  "fields": [
+   {
+    "type": "text",
+    "label": "Your First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_1",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Your Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_26",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Partner's First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_2",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Partner's Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_27",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_3",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "phone",
+    "label": "Phone #",
+    "required": false,
+    "description": "",
+    "name": "f_input_4",
+    "placeholder": "608-555-1212",
+    "input": "tel"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_39_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Type of Event?",
+    "required": true,
+    "description": "",
+    "name": "f_input_5_1",
+    "options": [
+     "Wedding",
+     "Business Event or Meeting",
+     "Holiday Party",
+     "Celebration of Life",
+     "Fundraiser",
+     "Other"
+    ]
+   },
+   {
+    "type": "radio",
+    "label": "Do You Have a Specific Date in Mind?",
+    "required": true,
+    "description": "",
+    "name": "f_input_7",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   {
+    "type": "text",
+    "label": "What Date(s) Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_8",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "What Month(s) Are You Interested In? Select all that apply...",
+    "required": true,
+    "description": "",
+    "name": "f_input_9_1",
+    "options": [
+     "Winter 2026/2027",
+     "Spring 2027",
+     "Summer 2027",
+     "Fall 2027",
+     "Winter 2027/2028",
+     "Spring 2028",
+     "Summer 2028",
+     "Fall 2028",
+     "Winter 2028/2029"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "What Day(s) of the Week Are You Open To? Select all that apply...",
+    "required": true,
+    "description": "",
+    "name": "f_input_10_1",
+    "options": [
+     "Fridays",
+     "Saturdays",
+     "Sundays",
+     "Weekdays"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Estimated # of Guests?",
+    "required": true,
+    "description": "",
+    "name": "f_input_6_1",
+    "options": [
+     "100 or Less",
+     "100-150",
+     "150-200",
+     "200-300",
+     "300+"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Which Venue(s) Do You Want to Tour?",
+    "required": true,
+    "description": "",
+    "name": "f_input_37_1",
+    "options": [
+     "Center Court  | See Center Court Pictures .",
+     "River Park  | See River Park Pictures .",
+     "Court Yard  | See Court Yard Pictures ."
+    ]
+   },
+   {
+    "type": "section",
+    "label": "",
+    "required": false,
+    "description": "",
+    "html": ""
+   },
+   {
+    "type": "date",
+    "label": "Desired Tour Date & Time? (1st Choice)",
+    "required": true,
+    "description": "",
+    "name": "f_input_28",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "time",
+    "label": "Time",
+    "required": true,
+    "description": "",
+    "name": "f_input_17_"
+   },
+   {
+    "type": "date",
+    "label": "Desired Tour Date & Time? (2nd Choice)",
+    "required": true,
+    "description": "",
+    "name": "f_input_29",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "time",
+    "label": "Time",
+    "required": true,
+    "description": "",
+    "name": "f_input_18_"
+   },
+   {
+    "type": "checkbox",
+    "label": "Is This Your 1st Venue Tour?",
+    "required": true,
+    "description": "",
+    "name": "f_input_23_1",
+    "options": [
+     "Yes",
+     "No, I've Toured Other Venues Already"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "How Did You Hear About Us?",
+    "required": true,
+    "description": "",
+    "name": "f_input_24_1",
+    "options": [
+     "Google/Search Engine",
+     "Social Media (Facebook, Pinterest, Instagram, TikTok)",
+     "Wedding Website (WeddingWire, TheKnot, Here Comes the Guide, etc.)",
+     "Past Celebrations' Bride Referral",
+     "Friend/Family",
+     "Previous Visit",
+     "Other"
+    ]
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_14",
+    "placeholder": "Add notes here...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "schedule-a-tour"
+ },
+ "5": {
+  "id": "5",
+  "fields": [
+   {
+    "type": "checkbox",
+    "label": "Which Taste Test Date Are You RSVPing For?",
+    "required": true,
+    "description": "",
+    "name": "f_input_17_1",
+    "options": [
+     "November 22, 2026 | 1pm - 5pm Decor. 5pm - 7pm Food.",
+     "January 3, 2027 | 1pm - 5pm Decor. 5pm - 7pm Food.",
+     "July 25, 2027 | 1pm - 5pm Decor. 5pm - 7pm Food.",
+     "December 5, 2027 | 1pm - 5pm Decor. 5pm - 7pm Food."
+    ]
+   },
+   {
+    "type": "date",
+    "label": "What is Your Wedding Date?",
+    "required": true,
+    "description": "",
+    "name": "f_input_18",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "select",
+    "label": "How Many Guests Are You RSVPing For? (2 Included. Maximum of 6 Total)",
+    "required": true,
+    "description": "",
+    "name": "f_input_19",
+    "options": [
+     "2",
+     "3",
+     "4",
+     "5",
+     "6"
+    ]
+   },
+   {
+    "type": "radio",
+    "label": "Have You Attended A Previous Taste Test Event?",
+    "required": false,
+    "description": "",
+    "name": "f_input_24",
+    "options": [
+     "Yes",
+     "No"
+    ]
+   },
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_1",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_2",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_23",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_14",
+    "placeholder": "Add notes here...",
+    "input": "textarea"
+   },
+   {
+    "type": "consent",
+    "label": "I have read and understand the rules of the Taste Test Event and RSVPing to it.",
+    "required": true,
+    "description": "",
+    "name": "f_input_20_1",
+    "consent": "I understand and agree.",
+    "options": [
+     "I understand and agree."
+    ]
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "taste-test-rsvp"
+ },
+ "16": {
+  "id": "16",
+  "fields": [
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_3",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_4",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_5",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "text",
+    "label": "Phone Number",
+    "required": true,
+    "description": "",
+    "name": "f_input_21",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Date of Wedding?",
+    "required": true,
+    "description": "",
+    "name": "f_input_12",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "select",
+    "label": "Which Room Did You Book?",
+    "required": false,
+    "description": "",
+    "name": "f_input_19",
+    "options": [
+     "Center Court",
+     "River Park",
+     "Court Yard"
+    ]
+   },
+   {
+    "type": "text",
+    "label": "Estimated # of Guests?",
+    "required": true,
+    "description": "",
+    "name": "f_input_15",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "Which VIP Vendor(s) Do You Wish to Contact?",
+    "required": true,
+    "description": "",
+    "name": "f_input_6_1",
+    "options": [
+     "DJ Brettly",
+     "First Look Sound & Lighting",
+     "KC Entertainment"
+    ]
+   },
+   {
+    "type": "textarea",
+    "label": "Describe Your Style/Vibe and What Type of Music You Want...",
+    "required": false,
+    "description": "",
+    "name": "f_input_11",
+    "placeholder": "Tell us about your Event",
+    "input": "textarea"
+   },
+   {
+    "type": "checkbox",
+    "label": "Are You Interested in Any of The Following?",
+    "required": false,
+    "description": "",
+    "name": "f_input_17_1",
+    "options": [
+     "Fog",
+     "LED Up-Lighting",
+     "Other"
+    ]
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_16",
+    "placeholder": "Share any additional information or questions with your DJ(s)...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "vip-dj-inquiry-form"
+ },
+ "17": {
+  "id": "17",
+  "fields": [
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_3",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_4",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_5",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "text",
+    "label": "Phone  Number",
+    "required": true,
+    "description": "",
+    "name": "f_input_23",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Date of Wedding?",
+    "required": true,
+    "description": "",
+    "name": "f_input_12",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "radio",
+    "label": "What Room Did You Book at Celebrations?",
+    "required": false,
+    "description": "",
+    "name": "f_input_20",
+    "options": [
+     "River Park",
+     "Center Court",
+     "Court Yard",
+     "Not Sure"
+    ]
+   },
+   {
+    "type": "text",
+    "label": "Estimated # of People Needing Hair/Makeup Done?",
+    "required": true,
+    "description": "",
+    "name": "f_input_15",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "Which VIP Vendor(s) Do You Wish to Contact?",
+    "required": true,
+    "description": "",
+    "name": "f_input_6_1",
+    "options": [
+     "Metropolitan Salon & Spa",
+     "Parlour Bridal",
+     "Heavenly Crossroads"
+    ]
+   },
+   {
+    "type": "text",
+    "label": "What is the Estimated Time You Are Doing Pictures?",
+    "required": false,
+    "description": "",
+    "name": "f_input_18",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "textarea",
+    "label": "Describe Your Style/Vibe You Want...",
+    "required": false,
+    "description": "",
+    "name": "f_input_11",
+    "placeholder": "Tell us about your Event",
+    "input": "textarea"
+   },
+   {
+    "type": "checkbox",
+    "label": "Are You Interested in Any of The Following?",
+    "required": false,
+    "description": "",
+    "name": "f_input_17_1",
+    "options": [
+     "Manicure",
+     "Pedicure",
+     "Air Brush",
+     "Other"
+    ]
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_16",
+    "placeholder": "Share any additional information or questions with your Hair/Makeup Vendor(s)...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "vip-hair-makeup-vendor-inquiry-form"
+ },
+ "4": {
+  "id": "4",
+  "fields": [
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_3",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_4",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_5",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "text",
+    "label": "Phone Number",
+    "required": true,
+    "description": "",
+    "name": "f_input_20",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Date of Wedding?",
+    "required": true,
+    "description": "",
+    "name": "f_input_12",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "select",
+    "label": "Which Room Did You Book?",
+    "required": false,
+    "description": "",
+    "name": "f_input_18",
+    "options": [
+     "Center Court",
+     "River Park",
+     "Court Yard"
+    ]
+   },
+   {
+    "type": "text",
+    "label": "Estimated # of Guests?",
+    "required": true,
+    "description": "",
+    "name": "f_input_15",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "Which VIP Vendor(s) Do You Wish to Contact?",
+    "required": true,
+    "description": "",
+    "name": "f_input_6_1",
+    "options": [
+     "Volkman Photography",
+     "Sarah Schultz Photgraphy",
+     "Jordana Snyder Photgraphy",
+     "BVisions Media"
+    ]
+   },
+   {
+    "type": "textarea",
+    "label": "Describe the Style/Vibe for Your Day...",
+    "required": false,
+    "description": "",
+    "name": "f_input_11",
+    "placeholder": "Tell us about your Event",
+    "input": "textarea"
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_16",
+    "placeholder": "Share any additional information or questions with your photographer(s)...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "vip-photographer-inquiry-form"
+ },
+ "32": {
+  "id": "32",
+  "fields": [
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_11",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_12",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_3",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "phone",
+    "label": "Phone Number",
+    "required": true,
+    "description": "",
+    "name": "f_input_2",
+    "placeholder": "(999) 999-9999",
+    "input": "tel"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_33_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   },
+   {
+    "type": "text",
+    "label": "What Date(s)  Are You Interested In? If Unsure, What Month(s)/Year(s)?",
+    "required": true,
+    "description": "",
+    "name": "f_input_24",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "What Day(s) Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_15_1",
+    "options": [
+     "Friday(s)",
+     "Saturday(s)",
+     "Sunday(s)",
+     "Monday(s) - Thursday(s)"
+    ]
+   },
+   {
+    "type": "number",
+    "label": "Estimated Guest Count?",
+    "required": true,
+    "description": "",
+    "name": "f_input_6",
+    "placeholder": "",
+    "input": "number"
+   },
+   {
+    "type": "checkbox",
+    "label": "Are You Interested in a Specific Venue?",
+    "required": true,
+    "description": "",
+    "name": "f_input_21_1",
+    "options": [
+     "Center Court",
+     "Court Yard",
+     "River Park",
+     "Undecided/Not Sure"
+    ]
+   },
+   {
+    "type": "checkbox",
+    "label": "Are You Interested in Scheduling a Tour?",
+    "required": true,
+    "description": "",
+    "name": "f_input_25_1",
+    "options": [
+     "Yes",
+     "No",
+     "Maybe, but not at this time"
+    ]
+   },
+   {
+    "type": "date",
+    "label": "Desired Tour Date & Time? (1st Choice)",
+    "required": true,
+    "description": "",
+    "name": "f_input_26",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "time",
+    "label": "Time",
+    "required": true,
+    "description": "",
+    "name": "f_input_27_"
+   },
+   {
+    "type": "date",
+    "label": "Desired Tour Date & Time? (2nd Choice)*",
+    "required": true,
+    "description": "",
+    "name": "f_input_28",
+    "placeholder": "mm/dd/yyyy",
+    "input": "text"
+   },
+   {
+    "type": "time",
+    "label": "Time",
+    "required": true,
+    "description": "",
+    "name": "f_input_30_"
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_7",
+    "placeholder": "Add questions or any notes you want to share...",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "vip-wedding-packages-la-crosse-wi-wedding-venue"
+ },
+ "23": {
+  "id": "23",
+  "fields": [
+   {
+    "type": "text",
+    "label": "First Name:",
+    "required": true,
+    "description": "",
+    "name": "f_input_9",
+    "placeholder": "First Name",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name:",
+    "required": true,
+    "description": "",
+    "name": "f_input_10",
+    "placeholder": "Last Name",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email:",
+    "required": true,
+    "description": "",
+    "name": "f_input_5",
+    "placeholder": "Email",
+    "input": "email"
+   },
+   {
+    "type": "phone",
+    "label": "Phone:",
+    "required": true,
+    "description": "",
+    "name": "f_input_14",
+    "placeholder": "",
+    "input": "tel"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_19_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   },
+   {
+    "type": "text",
+    "label": "Do You Have a Specific Date(s) in Mind? Or Month(s)?",
+    "required": true,
+    "description": "",
+    "name": "f_input_17",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "Estimated # of Guests?",
+    "required": true,
+    "description": "",
+    "name": "f_input_18_1",
+    "options": [
+     "75 or Less",
+     "75-125",
+     "125-200",
+     "200-300",
+     "300+"
+    ]
+   },
+   {
+    "type": "textarea",
+    "label": "Notes:",
+    "required": false,
+    "description": "",
+    "name": "f_input_8",
+    "placeholder": "Add notes or questions here...",
+    "input": "textarea"
+   },
+   {
+    "type": "html",
+    "label": "",
+    "required": false,
+    "description": "",
+    "html": "SUBJECT: Brochure from Celebrations on the River Hi As requested, here’s the link to your brochure to your dream wedding at Celebrations on the River! Link: https://celebrationslacrosse.com/wp-content/uploads/2022/03/CelebrationsBrochure2020_Web.pdf Are you interested in setting up a tour? Book in the next 14 days and get free mimosas in your bridal suite! Have any questions? Reply to this email and we’ll get you the answers you need very quickly. Thank you for considering Celebrations on the River! #WEARE WEDDINGS"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "winter-wedding-venue-in-wisconsin"
+ },
+ "28": {
+  "id": "28",
+  "fields": [
+   {
+    "type": "text",
+    "label": "First Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_11",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Last Name",
+    "required": true,
+    "description": "",
+    "name": "f_input_12",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "email",
+    "label": "Email",
+    "required": true,
+    "description": "",
+    "name": "f_input_3",
+    "placeholder": "",
+    "input": "email"
+   },
+   {
+    "type": "phone",
+    "label": "Phone Number",
+    "required": true,
+    "description": "",
+    "name": "f_input_2",
+    "placeholder": "(999) 999-9999",
+    "input": "tel"
+   },
+   {
+    "type": "consent",
+    "label": "Text Messaging Opt-In",
+    "required": false,
+    "description": "",
+    "name": "f_input_25_1",
+    "consent": "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy .",
+    "options": [
+     "I agree to receive recurring text messages from Celebrations on the River concerning my inquiry, tour scheduling, appointments, and event planning. Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe or HELP for assistance. Consent is not a condition of purchase. Terms & Conditions | Privacy Policy ."
+    ]
+   },
+   {
+    "type": "text",
+    "label": "What Date(s) or Month(s) Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_24",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "text",
+    "label": "Year?",
+    "required": true,
+    "description": "",
+    "name": "f_input_23",
+    "placeholder": "",
+    "input": "text"
+   },
+   {
+    "type": "checkbox",
+    "label": "What Day(s) of the Week Are You Interested In?",
+    "required": true,
+    "description": "",
+    "name": "f_input_15_1",
+    "options": [
+     "Friday(s)",
+     "Saturday(s)",
+     "Sunday(s)",
+     "Monday(s) - Thursday(s)"
+    ]
+   },
+   {
+    "type": "number",
+    "label": "Estimated Guest Count?",
+    "required": true,
+    "description": "",
+    "name": "f_input_6",
+    "placeholder": "",
+    "input": "number"
+   },
+   {
+    "type": "checkbox",
+    "label": "Are You Interested in a Specific Venue?",
+    "required": true,
+    "description": "",
+    "name": "f_input_21_1",
+    "options": [
+     "Center Court",
+     "Court Yard",
+     "River Park",
+     "Undecided/Not Sure"
+    ]
+   },
+   {
+    "type": "textarea",
+    "label": "Notes",
+    "required": false,
+    "description": "",
+    "name": "f_input_7",
+    "placeholder": "Any notes you want to share...?",
+    "input": "textarea"
+   }
+  ],
+  "submit": "Submit",
+  "source_page": "wisconsin-wedding-venue"
+ }
+}

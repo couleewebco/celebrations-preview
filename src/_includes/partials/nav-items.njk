@@ -1,0 +1,10 @@
+{% for item in items %}
+<li class="{% if item.children %}has-sub{% endif %}">
+  {% if item.children %}
+  <button class="sub-toggle" aria-expanded="false">{{ item.label }}<span aria-hidden="true"></span></button>
+  <ul class="sub">
+  {% set items = item.children %}{% include "partials/nav-items.njk" %}
+  </ul>
+  {% else %}<a href="{{ item.url }}"{% if item.url.startsWith('http') %} target="_blank" rel="noopener"{% endif %}>{{ item.label }}</a>{% endif %}
+</li>
+{% endfor %}

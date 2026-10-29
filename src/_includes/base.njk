@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en" data-base="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ seo_title or title }}{% if not seo_title %} | {{ site.name }}{% endif %}</title>
+{% if description %}<meta name="description" content="{{ description }}">{% endif %}
+{% if site.noindex %}<meta name="robots" content="noindex, nofollow, noarchive">{% endif %}
+<meta property="og:title" content="{{ seo_title or title }}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.name }}">
+{% if description %}<meta property="og:description" content="{{ description }}">{% endif %}
+<link rel="icon" href="{{ site.favicon }}">
+<link rel="apple-touch-icon" href="{{ site.favicon }}">
+<meta name="theme-color" content="#14213d">
+<link rel="stylesheet" href="/assets/css/site.css?v=1">
+<script src="/assets/js/site.js?v=1" defer></script>
+</head>
+<body class="{{ bodyClass }}">
+<a class="skip" href="#main">Skip to content</a>
+{% include "partials/header.njk" %}
+<main id="main">
+{{ content | safe }}
+</main>
+{% include "partials/footer.njk" %}
+<div class="mobile-bar" aria-label="Quick actions">
+  <a href="tel:{{ site.phone_tel }}">Call</a>
+  <a href="{{ site.cta_primary.url }}" class="gold">{{ site.cta_primary.label }}</a>
+  <a href="{{ site.cta_secondary.url }}">Open Dates</a>
+</div>
+<div class="lb" id="lb" hidden aria-modal="true" role="dialog" aria-label="Photo viewer">
+  <button class="lb-x" aria-label="Close">×</button><button class="lb-p" aria-label="Previous">‹</button>
+  <img alt=""><button class="lb-n" aria-label="Next">›</button><div class="lb-c"></div>
+</div>
+</body>
+</html>

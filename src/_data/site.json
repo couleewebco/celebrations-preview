@@ -1,0 +1,311 @@
+{
+ "name": "Celebrations on the River",
+ "tagline": "All-Inclusive Wedding Venue · La Crosse, WI",
+ "phone": "(608) 783-3335",
+ "phone_tel": "+16087833335",
+ "email": "events@celebrationslacrosse.com",
+ "address": {
+  "street": "2100 Dawson Ave",
+  "city": "La Crosse",
+  "state": "WI",
+  "zip": "54603"
+ },
+ "maps_link": "https://goo.gl/maps/M9i95aSPJnhG6BBr6",
+ "maps_embed": "https://www.google.com/maps?q=Celebrations+on+the+River,+2100+Dawson+Ave,+La+Crosse,+WI+54603&output=embed",
+ "logo_white": "/media/2022/03/Celebrations-on-the-River-Logo-White-PNG-1.png",
+ "logo_dark": "/media/2024/11/Celebrations-Logo-PNG-Black.png",
+ "favicon": "/media/2022/03/faviconC.png",
+ "social": [
+  {
+   "label": "Facebook",
+   "url": "https://www.facebook.com/CelebrationsontheRiver/"
+  },
+  {
+   "label": "Instagram",
+   "url": "https://www.instagram.com/celebrationslax/"
+  },
+  {
+   "label": "Pinterest",
+   "url": "https://www.pinterest.com/celebrationsontheriver/"
+  },
+  {
+   "label": "TikTok",
+   "url": "https://www.tiktok.com/@celebrationslacrosse"
+  }
+ ],
+ "nav": [
+  {
+   "label": "Venues",
+   "url": "",
+   "children": [
+    {
+     "label": "Center Court",
+     "url": "/center-court-la-crosse-wedding-venue/"
+    },
+    {
+     "label": "River Park",
+     "url": "/river-park/"
+    },
+    {
+     "label": "Court Yard",
+     "url": "/court-yard-all-inclusive-wedding-venue-wisconsin/"
+    },
+    {
+     "label": "Photo Gallery",
+     "url": "/gallery/"
+    }
+   ]
+  },
+  {
+   "label": "Weddings",
+   "url": "",
+   "children": [
+    {
+     "label": "VIP Wedding Packages",
+     "url": "/vip-wedding-packages-la-crosse-wi-wedding-venue/"
+    },
+    {
+     "label": "Cost Calculator",
+     "url": "/wedding-cost-calculator/"
+    },
+    {
+     "label": "Decor Rentals",
+     "url": "/rentals/",
+     "children": [
+      {
+       "label": "Decor Inventory",
+       "url": "https://celebrations-on-the-river.odoo.com/"
+      },
+      {
+       "label": "I Do Decor Showcase",
+       "url": "/i-do-decor-showcase/"
+      },
+      {
+       "label": "Tabletop Ideas",
+       "url": "/wedding-table-set-up-ideas/",
+       "children": [
+        {
+         "label": "Vision Boards",
+         "url": "/decor-vision-boards/"
+        }
+       ]
+      },
+      {
+       "label": "Dream Decor Packages",
+       "url": "/decor-packages/"
+      }
+     ]
+    },
+    {
+     "label": "VIP Vendors",
+     "url": "",
+     "children": [
+      {
+       "label": "VIP Photographers",
+       "url": "/vip-photographers/"
+      },
+      {
+       "label": "VIP DJ’s",
+       "url": "/vip-dj/"
+      },
+      {
+       "label": "VIP Hair & Makeup",
+       "url": "/hair-makeup/"
+      }
+     ]
+    },
+    {
+     "label": "VIP Hotel Shuttle",
+     "url": "/hotel-shuttle-service/"
+    },
+    {
+     "label": "Wedding FAQ’s",
+     "url": "/wedding-faqs/"
+    },
+    {
+     "label": "Winter Weddings",
+     "url": "/winter-wedding-venue-in-wisconsin/"
+    },
+    {
+     "label": "Open Date Discounts",
+     "url": "/open-date-discounts/"
+    }
+   ]
+  },
+  {
+   "label": "Events",
+   "url": "",
+   "children": [
+    {
+     "label": "Business Meetings/Events",
+     "url": "/event-venue-in-la-crosse-wi/"
+    },
+    {
+     "label": "Holiday Party",
+     "url": "/holiday-party-venue/"
+    },
+    {
+     "label": "Celebration of Life",
+     "url": "/celebration-of-life/"
+    },
+    {
+     "label": "Get a Quote",
+     "url": "/business-meeting-event-quote/"
+    }
+   ]
+  },
+  {
+   "label": "Food/Drink",
+   "url": "",
+   "children": [
+    {
+     "label": "Food Menu",
+     "url": "/food-menu/",
+     "children": [
+      {
+       "label": "Off-Site Catering",
+       "url": "/caterer-catering-la-crosse-wi/"
+      }
+     ]
+    },
+    {
+     "label": "Drink Menu",
+     "url": "/drink-menu/"
+    },
+    {
+     "label": "Taste Test Events",
+     "url": "/taste-test-events/",
+     "children": [
+      {
+       "label": "Taste Test RSVP",
+       "url": "/taste-test-rsvp/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Contact",
+   "url": "",
+   "children": [
+    {
+     "label": "Contact Us",
+     "url": "/contact-us/"
+    },
+    {
+     "label": "Schedule A Tour",
+     "url": "/schedule-a-tour/"
+    },
+    {
+     "label": "Check Availability",
+     "url": "/check-open-dates/"
+    },
+    {
+     "label": "Career Opportunities",
+     "url": "/career/"
+    }
+   ]
+  }
+ ],
+ "footer_quick_links": [
+  {
+   "label": "Venue Brochure (PDF)",
+   "url": "/media/2024/02/Celebrations-on-the-River_Digital-Brochure.pdf"
+  },
+  {
+   "label": "Room Rental Fees (PDF)",
+   "url": "/media/2026/02/2028-Room-Rental-Fees_Celebrations-on-the-River.pdf"
+  },
+  {
+   "label": "2026 Wedding Packages (PDF)",
+   "url": "/media/2025/08/VIP-Wedding-Packages_2026_Celebrations.pdf"
+  },
+  {
+   "label": "2027 Wedding Packages (PDF)",
+   "url": "/media/2025/08/VIP-Wedding-Packages_2027_Celebrations.pdf"
+  },
+  {
+   "label": "Wedding Agreement (PDF)",
+   "url": "/media/2025/12/Celebrations__Agreement_V28.1.pdf"
+  },
+  {
+   "label": "Business Agreement (PDF)",
+   "url": "/media/2025/10/Celebrations_Business-Agreement_V27.pdf"
+  },
+  {
+   "label": "Rainy Day Plans (PDF)",
+   "url": "/media/2024/05/Rainy-Day-Backup-Plans_2024.pdf"
+  },
+  {
+   "label": "Local Vendor Directory",
+   "url": "/lacrosse-wi-wedding-vendor-directory/"
+  },
+  {
+   "label": "Gallery",
+   "url": "/gallery/"
+  },
+  {
+   "label": "Terms and Conditions",
+   "url": "/terms/"
+  },
+  {
+   "label": "Privacy Policy",
+   "url": "/privacy/"
+  },
+  {
+   "label": "Contact Us",
+   "url": "/contact-us/"
+  }
+ ],
+ "footer_review_links": [
+  {
+   "label": "The Knot",
+   "url": "https://www.theknot.com/marketplace/celebrations-on-the-river-la-crosse-wi-1062319#navReviews"
+  },
+  {
+   "label": "WeddingWire",
+   "url": "https://www.weddingwire.com/biz/celebrations-on-the-river-la-crosse/83a8f9c8dc54595d.html"
+  },
+  {
+   "label": "Google",
+   "url": "https://www.google.com/search?q=celebrations+on+the+river&rlz=1C1CHBF_enUS863US864&oq=celebrations+on+the+river&aqs=chrome..69i57j46i175i199i512j0i512j46i175i199i512j0i512j69i60j69i61j69i60.7497j0j4&sourceid=chrome&ie=UTF-8#lrd=0x87f954796c51cf07:0xa5ffa606940603ec,1,,,"
+  },
+  {
+   "label": "Facebook",
+   "url": "https://www.facebook.com/CelebrationsontheRiver/reviews"
+  }
+ ],
+ "footer_images": [
+  "/media/2022/03/River-Park-4.2.jpg",
+  "/media/2022/03/River-Park-12.jpg",
+  "/media/2022/03/River-Park-20.1.jpg",
+  "/media/2022/03/Serenity-Hall-9.1.jpg"
+ ],
+ "copyright": "© 2026 Celebrations on the River. All Rights Reserved.",
+ "cta_primary": {
+  "label": "Book A Tour",
+  "url": "/schedule-a-tour/"
+ },
+ "cta_secondary": {
+  "label": "Check Open Dates",
+  "url": "/check-open-dates/"
+ },
+ "form_endpoint": "",
+ "form_fallback_note": "Online form submissions are not connected yet in this preview. Please call (608) 783-3335 or email events@celebrationslacrosse.com.",
+ "booking_widget": "https://link.celebrationsontheriver.cc",
+ "calculator_original": "https://celebrationslacrosse.com/wedding-cost-calculator/",
+ "rating_badges": [
+  {
+   "source": "The Knot",
+   "text": "4.8 stars · 191 reviews",
+   "url": "https://www.theknot.com/marketplace/celebrations-on-the-river-la-crosse-wi-1062319#navReviews"
+  },
+  {
+   "source": "WeddingWire",
+   "text": "4.6 stars · 65 reviews",
+   "url": "https://www.weddingwire.com/biz/celebrations-on-the-river-la-crosse/83a8f9c8dc54595d.html"
+  }
+ ],
+ "noindex": true,
+ "rating_badges_note": "Ratings as listed on The Knot and WeddingWire."
+}

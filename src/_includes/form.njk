@@ -1,0 +1,30 @@
+{% set f = gforms[formId] %}
+{% if f %}
+<form class="gform" data-form-id="{{ formId }}" data-endpoint="{{ site.form_endpoint }}" data-original="{{ original_url }}" method="post" novalidate>
+  <p class="req-note">“<span class="req">*</span>” indicates required fields</p>
+  {% for fld in f.fields %}
+  {% set rq = ' required' if fld.required else '' %}
+  {% if fld.type == 'section' %}<h3 class="fsec">{{ fld.label or fld.html }}</h3>
+  {% elif fld.type == 'html' %}{% if fld.html %}<p class="fhtml">{{ fld.html }}</p>{% endif %}
+  {% elif fld.type == 'consent' %}
+  <div class="field consent"><label><input type="checkbox" name="{{ fld.label }}" value="Yes"{{ rq }}> <span>{{ fld.consent or fld.label }}</span></label></div>
+  {% elif fld.type == 'checkbox' or fld.type == 'radio' %}
+  <fieldset class="field"><legend>{{ fld.label }}{% if fld.required %} <span class="req">*</span>{% endif %}</legend>
+    <div class="opts">{% for o in fld.options %}<label><input type="{{ fld.type }}" name="{{ fld.label }}" value="{{ o }}"{% if fld.required and fld.type == 'radio' %} required{% endif %}> <span>{{ o }}</span></label>{% endfor %}</div>
+    {% if fld.description %}<small>{{ fld.description }}</small>{% endif %}</fieldset>
+  {% elif fld.type == 'select' %}
+  <div class="field"><label>{{ fld.label }}{% if fld.required %} <span class="req">*</span>{% endif %}
+    <select name="{{ fld.label }}"{{ rq }}>{% for o in fld.options %}<option value="{% if loop.first and (o == '' or o.startsWith('Select')) %}{% else %}{{ o }}{% endif %}">{{ o }}</option>{% endfor %}</select></label></div>
+  {% elif fld.type == 'textarea' %}
+  <div class="field"><label>{{ fld.label }}{% if fld.required %} <span class="req">*</span>{% endif %}<textarea name="{{ fld.label }}" rows="4"{{ rq }}></textarea></label>{% if fld.description %}<small>{{ fld.description }}</small>{% endif %}</div>
+  {% elif fld.type == 'fileupload' %}
+  <div class="field"><label>{{ fld.label }}{% if fld.required %} <span class="req">*</span>{% endif %}<input type="file" name="{{ fld.label }}"{{ rq }}></label></div>
+  {% else %}
+  <div class="field"><label>{{ fld.label }}{% if fld.required %} <span class="req">*</span>{% endif %}
+    <input type="{{ fld.input or 'text' }}" name="{{ fld.label }}" placeholder="{{ fld.placeholder }}"{{ rq }}></label>{% if fld.description %}<small>{{ fld.description }}</small>{% endif %}</div>
+  {% endif %}
+  {% endfor %}
+  <button class="btn gold" type="submit">{{ f.submit }}</button>
+  <p class="form-msg" role="status" hidden></p>
+</form>
+{% endif %}

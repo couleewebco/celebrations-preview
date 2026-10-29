@@ -1,0 +1,31 @@
+---
+layout: base.njk
+bodyClass: inner
+---
+{% if hero and (hero.image or hero.video) %}
+<section class="page-hero has-img">
+  {% if hero.video %}<video class="hero-vid" autoplay muted loop playsinline {% if hero.image %}poster="{{ hero.image }}"{% endif %}><source src="{{ hero.video }}" type="video/mp4"></video>
+  {% elif hero.image %}<img class="hero-img" src="{{ hero.image }}" alt="" loading="eager" fetchpriority="high">{% endif %}
+  <div class="hero-shade"></div>
+  <div class="wrap"><h1>{{ heading or title }}</h1></div>
+</section>
+{% else %}
+<section class="page-hero"><div class="wrap"><h1>{{ heading or title }}</h1></div></section>
+{% endif %}
+<div class="wrap content-wrap">
+{% if videos %}<div class="vids">{% for v in videos %}
+  {% if v.type == 'youtube' %}<div class="yt" data-yt="{{ v.id }}"><img src="https://i.ytimg.com/vi/{{ v.id }}/hqdefault.jpg" alt="Video thumbnail" loading="lazy"><button aria-label="Play video"></button></div>
+  {% else %}<video controls playsinline preload="metadata" src="{{ v.src }}"></video>{% endif %}
+{% endfor %}</div>{% endif %}
+<article class="prose">
+{{ content | safe }}
+</article>
+{% if booking_widget %}<div class="booking"><iframe title="Schedule a tour" loading="lazy" src="{{ booking_widget }}"></iframe></div>{% endif %}
+{% if forms %}{% for formId in forms %}<div class="form-wrap">{% include "form.njk" %}</div>{% endfor %}{% endif %}
+{% if showPdfs %}
+<section class="downloads"><h2>Download Brochures, Menus & Agreements (PDF)</h2>
+<ul>{% for p in pdfs %}<li><a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.file | pdfTitle }}</a> <small>({{ (p.size / 1048576) | round(1) }} MB)</small></li>{% endfor %}</ul></section>
+{% endif %}
+{% if calculator %}<p class="calc-link"><a class="btn gold" href="{{ site.calculator_original }}" target="_blank" rel="noopener">Open the Wedding Quote Calculator</a></p>{% endif %}
+</div>
+{% include "partials/cta.njk" %}
