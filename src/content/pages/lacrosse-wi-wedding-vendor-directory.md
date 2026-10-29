@@ -18,7 +18,7 @@ type: page
 
 **Meringue Bakery & Cafe**
 
-- **Phone:** [(608) 519-2683](tel:+608-519-2683)
+- **Phone:** [(608) 519-2683](tel:+16085192683)
 - **Email:** [meringuelacrosse@gmail.com](mailto:meringuelacrosse@gmail.com)
 - [Website](http://www.meringuebakerycafe.com/)
 
@@ -184,7 +184,7 @@ type: page
 - **Phone:** [608-399-1704](tel:+16083991704)
 - **Text:** 608-397-1473
 - **Contact Person:** Tim Osiecki and Tom Dunkle
-- **Email:** [Tim@musicinmotiondj.com](https://celebrationslacrosse.com/vip-dj/Tim@musicinmotiondj.com)
+- **Email:** [Tim@musicinmotiondj.com](mailto:Tim@musicinmotiondj.com)
 - **Address:** Holmen, WI
 - [**Website**](http://musicinmotiondj.com/)
 - **Social**: [Facebook](https://www.facebook.com/MusicInMotionPartyExperts) | [Twitter](https://twitter.com/MMEventsDJs) | [Instagram](https://www.instagram.com/djmusicinmotion)
@@ -341,7 +341,7 @@ Phone: [608-738-5874](tel:+16087385874)
 
 - **Phone:**[(608) 783-0680](tel:+16083851459)
 - **Contact Person:** Sarah Schultz
-- **Email:**[sarahschultzphotography@gmail.com](https://celebrationslacrosse.com/vip-photographers/arahschultzphotography@gmail.com)
+- **Email:**[sarahschultzphotography@gmail.com](mailto:sarahschultzphotography@gmail.com)
 - [**Website**](https://www.sarahschultzphotography.com)
 - **Social**: [Facebook](https://www.facebook.com/Sarah-Schultz-Photography-439359772800124) | [Twitter](https://twitter.com/sarahschultzpho) | [Instagram](https://www.instagram.com/sarahschultzphotography/)
 
@@ -505,7 +505,7 @@ Phone: [608-738-5874](tel:+16087385874)
 
 - **Phone:** [(608)406-9279](tel:+16084069279)
 - **Contact Person:** Adina
-- **Email:** [beautifullyrevivedwithadina@gmail.com](https://celebrationslacrosse.com/hair-makeup/beautifullyrevivedwithadina@gmail.com)
+- **Email:** [beautifullyrevivedwithadina@gmail.com](mailto:beautifullyrevivedwithadina@gmail.com)
 - **Social**: [Facebook](https://www.facebook.com/BeautifullyRevived1/)
 
 ---
@@ -534,7 +534,7 @@ Phone: [608-738-5874](tel:+16087385874)
 
 - **Phone:** [(608)406-9279](tel:+16084069279)
 - **Contact Person:** Adina
-- **Email:** [beautifullyrevivedwithadina@gmail.com](https://celebrationslacrosse.com/hair-makeup/beautifullyrevivedwithadina@gmail.com)
+- **Email:** [beautifullyrevivedwithadina@gmail.com](mailto:beautifullyrevivedwithadina@gmail.com)
 - **Social**: [Facebook](https://www.facebook.com/BeautifullyRevived1/)
 
 ---
@@ -543,7 +543,7 @@ Phone: [608-738-5874](tel:+16087385874)
 
 - **Phone** [608-704-6335](tel:+16087046335)
 - **Contact Person:**Devinne Sye
-- **Email:** [devinne@estheticiandevinne.com](mailto:email@example.com)
+- **Email:** [devinne@estheticiandevinne.com](mailto:devinne@estheticiandevinne.com)
 - **Social:**[Instagram](https://www.instagram.com/estheticiandevinne/?hl=en) **I**[Facebook](https://www.facebook.com/estheticiandevinne/)
 
 ---
@@ -695,7 +695,7 @@ Partner hotel options for the [**VIP Hotel Shuttle**](/hotel-shuttle-service/), 
 
 **Holiday Express & Suites**
 
-- **Phone:** [(608) 667-3030](tel:+1608667303)
+- **Phone:** [(608) 667-3030](tel:+16086673030)
 - **Contact:** Cyndie Ceresa
 - **Address:** [2614 Midwest Drive, Onalaska, WI, 54650 | Map It](https://goo.gl/maps/KvWBy13pKVFeZQhq5)
 - **Email:**[cynthiaceresa@holidayinnexpressonalaska.com](mailto:cynthiaceresa@holidayinnexpressonalaska.com)
@@ -749,7 +749,7 @@ Partner hotel options for the [**VIP Hotel Shuttle**](/hotel-shuttle-service/), 
 
 **Stay Suites**
 
-- **Phone:** [608-881-2132](tel:+1608-881-2132)
+- **Phone:** [608-881-2132](tel:+16088812132)
 - **Contact:** Tusher Patel
 - **Address:**9409 State rd 16, Onalaska, WI 54650 | [Map It](https://maps.app.goo.gl/8RsSpPogiDewvNJRA)
 - **Email:** [tpatel1211@gmail.com](mailto:tpatel1211@gmail.com)
@@ -763,7 +763,7 @@ Partner hotel options for the [**VIP Hotel Shuttle**](/hotel-shuttle-service/), 
 
 **Ready Bus Company**
 
-- Phone: [(507) 895-2349](tel: +(507) 895-2349)
+- Phone: [(507) 895-2349](tel:+15078952349)
 - Email: [cschelbe@mncoaches.com](mailto:cschelbe@mncoaches.com)
 - [Website](http://www.readybusline.com/)
 
@@ -827,4 +827,4 @@ Partner hotel options for the [**VIP Hotel Shuttle**](/hotel-shuttle-service/), 
 
 ---
 
-*Interested in Listing Your Business? Start by sending us an [email](mailto:celebrationslacrosse.com).*
+*Interested in Listing Your Business? Start by sending us an [email](mailto:events@celebrationslacrosse.com).*

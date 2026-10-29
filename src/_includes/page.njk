@@ -21,7 +21,7 @@ bodyClass: inner
 {{ content | safe }}
 </article>
 {% if booking_widget %}<div class="booking"><iframe title="Schedule a tour" loading="lazy" src="{{ booking_widget }}"></iframe></div>{% endif %}
-{% if forms %}{% for formId in forms %}<div class="form-wrap">{% include "form.njk" %}</div>{% endfor %}{% endif %}
+{% if forms %}{% for formId in forms %}<div class="form-wrap"{% if loop.first %} id="form"{% endif %}>{% include "form.njk" %}</div>{% endfor %}{% endif %}
 {% if showPdfs %}
 <section class="downloads"><h2>Download Brochures, Menus & Agreements (PDF)</h2>
 <ul>{% for p in pdfs %}<li><a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.file | pdfTitle }}</a> <small>({{ (p.size / 1048576) | round(1) }} MB)</small></li>{% endfor %}</ul></section>

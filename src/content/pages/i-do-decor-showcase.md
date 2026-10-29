@@ -77,217 +77,217 @@ If you're planning a wedding, this event is for you! Get inspired with stunning 
 
 ## 35+ TABLE TOPS ON DISPLAY Available to Rent at Your Venue
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_9160.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_9160.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2526.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2526.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5938.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5938.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5937.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5937.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5939.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5939.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2488.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2488.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5940.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5940.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5941.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5941.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5942.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5942.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5943.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5943.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5944.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5944.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5945.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5945.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5946.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5946.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5947.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5947.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5948.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5948.jpg)
 
-[![A table with purple napkins and white tablecloth](/media/2025/01/IMG_5949.jpg)]()
+![A table with purple napkins and white tablecloth](/media/2025/01/IMG_5949.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5950.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5950.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5951.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5951.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5952.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5952.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5953.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5953.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5955.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5955.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5956.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5956.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5957.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5957.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5958.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5958.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5959.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5959.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2795.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2795.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5960.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5960.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2799.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2799.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5961.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5961.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5962.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5962.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5963.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5963.jpg)
 
-[![A round table with many silverware and napkins on it.](/media/2025/01/IMG_5965.jpg)]()
+![A round table with many silverware and napkins on it.](/media/2025/01/IMG_5965.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5954.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5954.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1218.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1218.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1229.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1229.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1234.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1234.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1235.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1235.jpg)
 
-[![A table set with red napkins and white tablecloth.](/media/2025/01/IMG_1242.jpg)]()
+![A table set with red napkins and white tablecloth.](/media/2025/01/IMG_1242.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2785.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2785.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2791.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2791.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2794.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2794.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2796.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2796.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2797.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2797.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2800.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2800.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2801.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2801.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2804.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2804.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2805.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2805.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_9160.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_9160.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2805.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2805.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2804.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2804.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2803.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2803.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2802.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2802.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2801.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2801.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2800.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2800.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2799.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2799.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2797.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2797.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2796.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2796.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2795.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2795.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2794.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2794.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2791.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2791.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2785.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2785.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2527.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2527.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2526.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2526.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2489.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2489.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2488.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2488.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2391.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_2391.jpg)
 
-[![A table set with red napkins and white tablecloth.](/media/2025/01/IMG_1242.jpg)]()
+![A table set with red napkins and white tablecloth.](/media/2025/01/IMG_1242.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1240.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1240.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1239.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1239.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1238.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1238.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1237.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1237.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1236.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1236.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1235.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1235.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1234.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1234.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1230.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1230.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1229.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1229.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1219.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1219.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1218.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_1218.jpg)
 
-[![A round table with many silverware and napkins on it.](/media/2025/01/IMG_5965.jpg)]()
+![A round table with many silverware and napkins on it.](/media/2025/01/IMG_5965.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5963.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5963.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5962.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5962.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5961.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5961.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5960.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5960.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5959.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5959.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5958.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5958.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5957.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5957.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5956.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5956.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5955.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5955.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5954.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5954.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5953.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5953.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5952.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5952.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5951.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5951.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5950.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5950.jpg)
 
-[![A table with purple napkins and white tablecloth](/media/2025/01/IMG_5949.jpg)]()
+![A table with purple napkins and white tablecloth](/media/2025/01/IMG_5949.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5948.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5948.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5947.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5947.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5946.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5946.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5945.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5945.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5944.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5944.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5943.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5943.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5942.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5942.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5941.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5941.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5940.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5940.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5939.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5939.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5938.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5938.jpg)
 
-[![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5937.jpg)]()
+![Wedding Decor Table Top Design for Rent](/media/2025/01/IMG_5937.jpg)
 
 ## RSVP'S APPRECIATED Walk-Ins Are Also Welcome. Bring as Many Gusts As You Like.
 

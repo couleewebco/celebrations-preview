@@ -47,7 +47,7 @@ Without a venue and date in mind, you cannot proceed to book the rest of the ven
 
 The venue is a crucial aspect you cannot ignore when planning a wedding. In fact, your wedding venue should be among the first things to determine and book because it determines most of your other choices. So, if you choose the right location, everything else is easier to plan.
 
-At Celebrations on the River, we boast a mind-blowing venue with first-class amenities and excellent on-site catering services. [Contact us](http://https/celebrationslacrosse.com/contact/) today to schedule a tour.
+At Celebrations on the River, we boast a mind-blowing venue with first-class amenities and excellent on-site catering services. [Contact us](/contact-us/) today to schedule a tour.
 
 ## Recent Posts
 

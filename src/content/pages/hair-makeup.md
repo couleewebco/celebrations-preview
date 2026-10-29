@@ -94,7 +94,7 @@ Celebrations’ Wedding and Event Planners are ready to help! You're welcome to 
 
 ---
 
-**Subject to availability. Signed agreement and non-refundable down payment required to book. Sales tax not included. Restrictions apply. Client may choose the VIP Hair/Makeup Vendor of their choice listed on [www.CelebrationsLaCrosse.com](https://celebrationslacrosse.com/vip-dj/https://celebrationslacrosse.com/vip-dj/). See agreement for additional details.*
+**Subject to availability. Signed agreement and non-refundable down payment required to book. Sales tax not included. Restrictions apply. Client may choose the VIP Hair/Makeup Vendor of their choice listed on [www.CelebrationsLaCrosse.com](/hair-makeup/). See agreement for additional details.*
 
 Metropolitan Salon & Spa
 
@@ -330,8 +330,8 @@ Looking for more wedding vendors in the La Crosse, WI area? See [Local Wedding V
 
 ***Banned Vendors:** In rare circumstances, we've opted into not working with specific vendors to protect our clients and our reputation. If you have questions, please speak with your Celebrations' Event Planner.*
 
-***New VIP Vendors:** We accept a limited amount of new VIP Vendors. To be considered, start by sending us an [email](mailto:celebrationslacrosse.com).*
+***New VIP Vendors:** We accept a limited amount of new VIP Vendors. To be considered, start by sending us an [email](mailto:events@celebrationslacrosse.com).*
 
 ***Banned Vendors:** In rare circumstances, we've opted into not working with specific vendors to protect our clients and our reputation. If you have questions, please speak with your Celebrations' Event Planner.*
 
-***New VIP Vendors:** We accept a limited amount of new VIP Vendors. To be considered, start by sending us an [email](mailto:celebrationslacrosse.com).*
+***New VIP Vendors:** We accept a limited amount of new VIP Vendors. To be considered, start by sending us an [email](mailto:events@celebrationslacrosse.com).*

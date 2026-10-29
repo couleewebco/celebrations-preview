@@ -168,7 +168,7 @@ Holiday Inn Express & Suites Onalaska
 ## Holiday Inn Express & Suites Onalaska
 
 - Address: [2614 Midwest Drive, Onalaska, WI, 54650 | Map It](https://goo.gl/maps/KvWBy13pKVFeZQhq5)
-- Phone: [(608) 667-3030](tel:+1608667303)
+- Phone: [(608) 667-3030](tel:+16086673030)
 - Contact Person: Travis Bordeau
 - Email: [Sales@holidayinnexpressonalaska.com](mailto:Sales@holidayinnexpressonalaska.com)
 - [Website](https://www.ihg.com/holidayinnexpress/hotels/us/en/onalaska/lsemd/hoteldetail)
@@ -204,7 +204,7 @@ Country Inn
 ## Country Inn
 
 - Address: [2110 Rose St, La Crosse, WI 54603 | Map It](https://goo.gl/maps/ncqmfy5vBr6YQVkG7)
-- Phone: [(225) 532-5863](tel:+12254325863)
+- Phone: [(225) 532-5863](tel:+12255325863)
 - Contact Person: Wilks
 - Email: [wholmes@jacaruso.com](mailto:wholmes@jacaruso.com)
 - [Website](https://www.choicehotels.com/wisconsin/la-crosse/country-inn-suites-hotels/wi462?mc=llgoxxpx)

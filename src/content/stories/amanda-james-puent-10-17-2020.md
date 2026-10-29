@@ -65,7 +65,7 @@ Tuxes – Men’s Wearhouse
 
 Flowers – hand-made artificial bouquets (you get to keep them!)
 
-Decor – [Celebrations](https://celebrationslacrosse.com/weddings/dream-decor-package/) and Hobby Lobby!
+Decor – [Celebrations](/decor-packages/) and Hobby Lobby!
 
 ## Recent Posts
 

@@ -312,6 +312,8 @@ Virtual Trivia
 
 Zoom Charades
 
+<span id="anchor-appetizers"></span>
+
 ## Appetizer Menu
 
 ![Celebration of Life, Food Menu for Appetizers](/media/2024/04/Apps-1-1.jpg)
@@ -330,6 +332,8 @@ Zoom Charades
 
 ![Celebration of Life, Food Menu for Appetizers](/media/2024/04/Apps-8-1.jpg)
 
+<span id="anchor-build-your-own"></span>
+
 ## Build Your Own Food Bar Menu
 
 ![Build Your Own Food Bar Menu for Holiday Party at Celebrations on the River](/media/2024/04/Build-Your-Own-Food-Bar-1.jpg)
@@ -339,6 +343,8 @@ Zoom Charades
 ![Build Your Own Food Bar Menu for Holiday Party at Celebrations on the River](/media/2024/04/Build-Your-Own-Food-Bar-3.jpg)
 
 ![Build Your Own Food Bar Menu for Holiday Party at Celebrations on the River](/media/2024/04/Build-Your-Own-Food-Bar-4.jpg)
+
+<span id="anchor-entrees"></span>
 
 ## Entrée Menu
 
@@ -361,6 +367,8 @@ Zoom Charades
 ![Celebration of Life Lunch Food Menu](/media/2024/04/Lunch-6.jpg)
 
 ![Celebration of Life Entree Food Menu](/media/2024/04/Entrees-8.jpg)
+
+<span id="anchor-desserts"></span>
 
 ## Dessert Menu
 

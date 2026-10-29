@@ -190,7 +190,7 @@ Sarah Schultz Photography
 
 ## Contact
 
-- **Phone:** [608-385-1459](tel:+6083851459)
+- **Phone:** [608-385-1459](tel:+16083851459)
 - **Contact Person:** Sarah Schultz
 - **Email:**[sarahschultzphotography@gmail.com](mailto:sarahschultzphotography@gmail.com)
 - **Website:** h[ttps://www.sarahschultzphotography.com](https://www.sarahschultzphotography.com/blank-q17v5)
@@ -321,8 +321,8 @@ For more wedding pro's in the La Crosse, WI area, visit our [Local Wedding Vendo
 
 *Banned Vendors: In some circumstances, we've opted into not working with specific vendors to protect our clients and reputation.*
 
-*New VIP Vendors: Interested in becoming a VIP Vendor? Start by sending us an [email](mailto:celebrationslacrosse.com).*
+*New VIP Vendors: Interested in becoming a VIP Vendor? Start by sending us an [email](mailto:events@celebrationslacrosse.com).*
 
 *Banned Vendors: In some circumstances, we've opted into not working with specific vendors to protect our clients and reputation.*
 
-*New VIP Vendors: Interested in becoming a VIP Vendor? Start by sending us an [email](mailto:celebrationslacrosse.com).*
+*New VIP Vendors: Interested in becoming a VIP Vendor? Start by sending us an [email](mailto:events@celebrationslacrosse.com).*

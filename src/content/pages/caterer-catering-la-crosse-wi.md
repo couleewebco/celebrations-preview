@@ -169,13 +169,13 @@ _
 **Does NOT Include:*
 
 - *Water goblets, water pitchers, or drink service.*
-  - *Available to rent. [Glasses](https://celebrations-on-the-river.booqableshop.com/products/water-goblet-11-5-oz). Or [Pitchers.](https://celebrations-on-the-river.booqableshop.com/products/water-pitcher)*
+  - *Available to rent. [Glasses](https://celebrations-on-the-river.odoo.com/). Or [Pitchers.](https://celebrations-on-the-river.odoo.com/)*
 - *Setup of tables and chairs.*
-  - Available to rent. [Tables.](https://celebrations-on-the-river.booqableshop.com/collections/tables-9fc19d36-9cfc-4e6f-b855-3f40b7a3728f) Or [Chairs.](https://celebrations-on-the-river.booqableshop.com/collections/chairs-6069f52d-0a0d-47ac-8896-f12d2e3c6382)
+  - Available to rent. [Tables.](https://celebrations-on-the-river.odoo.com/) Or [Chairs.](https://celebrations-on-the-river.odoo.com/)
 - *Table linens.*
-  - *Available to rent. [Table Linens.](https://celebrations-on-the-river.booqableshop.com/collections/85-tablecloths) Or [Premium Table Linens.](https://celebrations-on-the-river.booqableshop.com/collections/120-tablecloths) Or [Table Skirting.](https://celebrations-on-the-river.booqableshop.com/collections/table-skirts-3-options)*
+  - *Available to rent. [Table Linens.](https://celebrations-on-the-river.odoo.com/) Or [Premium Table Linens.](https://celebrations-on-the-river.odoo.com/) Or [Table Skirting.](https://celebrations-on-the-river.odoo.com/)*
 - *Centerpieces and table decorations.*
-  - *Available to rent. [Centerpieces.](https://celebrations-on-the-river.booqableshop.com/collections/centerpieces-c3077eaf-9b5f-47fb-9c11-496c9d530ea9) Or [Table Decorations.](https://celebrations-on-the-river.booqableshop.com/collections/table-decor-4872f179-33e6-410e-84c2-6750f8618e43)*
+  - *Available to rent. [Centerpieces.](https://celebrations-on-the-river.odoo.com/) Or [Table Decorations.](https://celebrations-on-the-river.odoo.com/)*
 
 Delivery
 
@@ -197,13 +197,13 @@ _
 
 1. **Buffet:** Guests serve themselves in a buffet line. 
    - Service: Delivery, buffet set up, buffet replenishing, clean up and garbage removal.
-   - Includes: All equipment, china plates, real silverware, [cloth napkins](https://celebrations-on-the-river.booqableshop.com/collections/napkins-55785951-c39e-4c0e-9e48-a94be12914e1) with rolled silverware, salt/pepper, and signage.
+   - Includes: All equipment, china plates, real silverware, [cloth napkins](https://celebrations-on-the-river.odoo.com/) with rolled silverware, salt/pepper, and signage.
 2. **Plated Meal:** Guests are served a plated meal at their table.
    - Service Includes: Delivery, set up, plated meal service, table clean up and garbage removal.
-   - Includes: All equipment, china plates, real silverware, [cloth napkins](https://celebrations-on-the-river.booqableshop.com/collections/napkins-55785951-c39e-4c0e-9e48-a94be12914e1) with rolled silverware, salt/pepper, and signage.
+   - Includes: All equipment, china plates, real silverware, [cloth napkins](https://celebrations-on-the-river.odoo.com/) with rolled silverware, salt/pepper, and signage.
 3. **Stations:** Guests help themselves at food station(s).
    - Service: Delivery, station(s) set up, replenishing, clean up and garbage removal.
-   - Includes: All equipment, china plates, real silverware, [cloth napkins](https://celebrations-on-the-river.booqableshop.com/collections/napkins-55785951-c39e-4c0e-9e48-a94be12914e1) with rolled silverware, salt/pepper, and signage.
+   - Includes: All equipment, china plates, real silverware, [cloth napkins](https://celebrations-on-the-river.odoo.com/) with rolled silverware, salt/pepper, and signage.
 
 _
 
@@ -212,13 +212,13 @@ _
 **Additional delivery and service charges apply. Does not include:*
 
 - *Water goblets, water pitchers, or drink service.*
-  - *Available to rent. [Glasses](https://celebrations-on-the-river.booqableshop.com/products/water-goblet-11-5-oz). Or [Pitchers.](https://celebrations-on-the-river.booqableshop.com/products/water-pitcher)*
+  - *Available to rent. [Glasses](https://celebrations-on-the-river.odoo.com/). Or [Pitchers.](https://celebrations-on-the-river.odoo.com/)*
 - *Setup of tables and chairs.*
-  - Available to rent. [Tables.](https://celebrations-on-the-river.booqableshop.com/collections/tables-9fc19d36-9cfc-4e6f-b855-3f40b7a3728f) Or [Chairs.](https://celebrations-on-the-river.booqableshop.com/collections/chairs-6069f52d-0a0d-47ac-8896-f12d2e3c6382)
+  - Available to rent. [Tables.](https://celebrations-on-the-river.odoo.com/) Or [Chairs.](https://celebrations-on-the-river.odoo.com/)
 - *Table linens.*
-  - *Available to rent. [Table Linens.](https://celebrations-on-the-river.booqableshop.com/collections/85-tablecloths) Or [Premium Table Linens.](https://celebrations-on-the-river.booqableshop.com/collections/120-tablecloths) Or [Table Skirting.](https://celebrations-on-the-river.booqableshop.com/collections/table-skirts-3-options)*
+  - *Available to rent. [Table Linens.](https://celebrations-on-the-river.odoo.com/) Or [Premium Table Linens.](https://celebrations-on-the-river.odoo.com/) Or [Table Skirting.](https://celebrations-on-the-river.odoo.com/)*
 - *Centerpieces and table decorations.*
-  - *Available to rent. [Centerpieces.](https://celebrations-on-the-river.booqableshop.com/collections/centerpieces-c3077eaf-9b5f-47fb-9c11-496c9d530ea9) Or [Table Decorations.](https://celebrations-on-the-river.booqableshop.com/collections/table-decor-4872f179-33e6-410e-84c2-6750f8618e43)*
+  - *Available to rent. [Centerpieces.](https://celebrations-on-the-river.odoo.com/) Or [Table Decorations.](https://celebrations-on-the-river.odoo.com/)*
 
 ### 2026 Outside Catering Menu PDF Download
 

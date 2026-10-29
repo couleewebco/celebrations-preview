@@ -354,4 +354,4 @@ For more wedding pro's in the La Crosse, WI area, visit our [Local Wedding Vendo
 
 ***Banned Vendors:** In some circumstances, we've opted into not working with specific vendors to protect our clients and reputation.*
 
-***New VIP Vendors:** Interested in becoming a VIP Vendor? Start by sending us an [email](mailto:celebrationslacrosse.com).*
+***New VIP Vendors:** Interested in becoming a VIP Vendor? Start by sending us an [email](mailto:events@celebrationslacrosse.com).*

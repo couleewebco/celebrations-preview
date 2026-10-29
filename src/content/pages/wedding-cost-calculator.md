@@ -35,7 +35,7 @@ How To Use The Wedding Cost Calculator:
 
 - [Food Menu](/food-menu/)
 - [Drink Menu & Bar Options](/drink-menu/)
-- [Décor Options](https://celebrations-on-the-river.booqable.store/)
+- [Décor Options](https://celebrations-on-the-river.odoo.com/)
 - [Ready To Book? See the full Agreement](/media/2024/11/Celebrations__Agreement_V27.pdf)
 - [Rainy Day Backup Plans](/media/2024/05/Rainy-Day-Backup-Plans_2024.pdf)
 

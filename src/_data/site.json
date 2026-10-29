@@ -73,6 +73,10 @@
      "url": "/rentals/",
      "children": [
       {
+       "label": "Decor Rentals Overview",
+       "url": "/rentals/"
+      },
+      {
        "label": "Decor Inventory",
        "url": "https://celebrations-on-the-river.odoo.com/"
       },
@@ -84,6 +88,10 @@
        "label": "Tabletop Ideas",
        "url": "/wedding-table-set-up-ideas/",
        "children": [
+        {
+         "label": "Tabletop Ideas Overview",
+         "url": "/wedding-table-set-up-ideas/"
+        },
         {
          "label": "Vision Boards",
          "url": "/decor-vision-boards/"
