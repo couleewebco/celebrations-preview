@@ -66,7 +66,8 @@ export default function (eleventyConfig) {
     // 3. runs of 3+ image-only paragraphs become a gallery grid
     h = h.replace(/(?:<p>\s*<img [^>]*>\s*<\/p>\s*){3,}/g, (run) =>
       `<div class="gallery">${run.replace(/<\/?p>/g, "")}</div>`);
-    // 4. thumbs + lazy loading
+    // 4. thumbs + lazy loading (eager on pages with in-page jump links so anchors land right)
+    const eager = /holiday-party-venue|celebration-of-life/.test(inputPath);
     h = h.replace(/<img ([^>]*?)src="(\/media\/[^"]+\.jpe?g)"([^>]*)>/gi, (m, pre, src, post) => {
       const t = "src/media/_t/" + src.replace(/^\/media\//, "");
       const hasSet = /srcset=/.test(m);
@@ -74,10 +75,10 @@ export default function (eleventyConfig) {
       if (!hasSet && fs.existsSync(t)) {
         extra = ` srcset="${src.replace("/media/", "/media/_t/")} 640w, ${src} 1800w" sizes="(min-width:900px) 380px, 90vw"`;
       }
-      const lazy = /loading=/.test(m) ? "" : ' loading="lazy" decoding="async"';
+      const lazy = (/loading=/.test(m) || eager) ? "" : ' loading="lazy" decoding="async"';
       return `<img ${pre}src="${src}"${post}${extra}${lazy}>`;
     });
-    h = h.replace(/<img ((?:(?!loading=)[^>])*?)>/gi, (m, a) => /loading=/.test(m) ? m : `<img ${a} loading="lazy" decoding="async">`);
+    h = h.replace(/<img ((?:(?!loading=)[^>])*?)>/gi, (m, a) => (/loading=/.test(m) || eager) ? m : `<img ${a} loading="lazy" decoding="async">`);
     // 5. path prefix for GitHub Pages sub-path hosting
     if (prefixNoSlash) {
       h = h.replace(/(\s(?:href|src|poster|action|data-src|data-full|data-poster)=")\/(?!\/)/g, `$1${prefixNoSlash}/`);
