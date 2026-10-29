@@ -157,3 +157,7 @@ hr,.faq-item{border-color:rgba(201,162,77,.3)}
 .vt b{font-weight:700}
 :root{--sans:"Josefin Sans",system-ui,sans-serif}
 body{font-family:var(--sans)}
+
+.mobile-bar{left:16px;right:16px;bottom:14px;grid-template-columns:repeat(3,1fr);border:1px solid var(--gold);border-top:1px solid var(--gold);border-radius:40px;box-shadow:0 8px 22px rgba(0,0,0,.7);overflow:hidden}
+.mobile-bar a{display:flex;flex-direction:column;align-items:center;gap:4px;padding:9px 4px;font-size:.66rem;color:#e8e3d6}.mobile-bar a svg{color:#e6c984}.mobile-bar .gold{background:none;color:var(--gold)}.mobile-bar .gold svg{color:var(--gold)}
+@media(max-width:1039px){.site-footer{padding-bottom:96px}}
