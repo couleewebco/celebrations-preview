@@ -27,5 +27,5 @@ The forms are real, but they need an address to send to. Create a free form at F
 The Wedding Cost Calculator and the tour-booking calendar still use the old/original tools (linked/embedded).
 
 ## Hosting
-- **Preview** (now): GitHub Pages, hidden from Google. Builds automatically using `.github/workflows/pages.yml`.
+- **Preview** (now): GitHub Pages from the `gh-pages` branch (built copy of the site), hidden from Google. To make the preview rebuild automatically after edits, copy `docs/github-pages-workflow.yml.txt` to `.github/workflows/pages.yml` (needs a GitHub login with workflow permission), then set Pages source to *GitHub Actions*. Cloudflare Pages (below) rebuilds automatically with no extra setup.
 - **Live site** (free Cloudflare Pages, in the client's account): Create project → *Connect to Git* → pick this repo → Build command `npx @11ty/eleventy` → Output folder `_site` → leave `PATH_PREFIX` unset. Then, in `src/_data/site.json`, set `"noindex": false` (or untick "Hide from Google" in Site Settings) so Google can list the new site. Old duplicate web addresses redirect through `src/_redirects`.
