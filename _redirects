@@ -1,0 +1,21 @@
+# Cloudflare Pages redirects (old duplicate URLs -> canonical pages)
+/business-meetings-and-events/ /event-venue-in-la-crosse-wi/ 301
+/business-meetings-and-events /event-venue-in-la-crosse-wi/ 301
+/center-court/ /center-court-la-crosse-wedding-venue/ 301
+/center-court /center-court-la-crosse-wedding-venue/ 301
+/court-yard/ /court-yard-all-inclusive-wedding-venue-wisconsin/ 301
+/court-yard /court-yard-all-inclusive-wedding-venue-wisconsin/ 301
+/dream-decor-package/ /rentals/ 301
+/dream-decor-package /rentals/ 301
+/holiday-parties-2026/ /holiday-party-venue/ 301
+/holiday-parties-2026 /holiday-party-venue/ 301
+/holiday/ /holiday-party-venue/ 301
+/holiday /holiday-party-venue/ 301
+/tony-ryan-daley-8-28-20/ /toni-ryan-daley-8-28-20/ 301
+/tony-ryan-daley-8-28-20 /toni-ryan-daley-8-28-20/ 301
+/wedding-packages/ /vip-wedding-packages-la-crosse-wi-wedding-venue/ 301
+/wedding-packages /vip-wedding-packages-la-crosse-wi-wedding-venue/ 301
+/wedding-pricing-guide/ /vip-wedding-packages-la-crosse-wi-wedding-venue/ 301
+/wedding-pricing-guide /vip-wedding-packages-la-crosse-wi-wedding-venue/ 301
+/wedding-venue/ /wisconsin-wedding-venue/ 301
+/wedding-venue /wisconsin-wedding-venue/ 301
