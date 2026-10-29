@@ -129,3 +129,28 @@ nav#nav.open{display:block}
 
 .prose strong{color:var(--head)}.prose hr{border-color:var(--line)}.prose td,.prose th{border-color:var(--line)}.menu-btn{border-color:var(--gold);color:var(--gold2)}.nav-cta{color:#111!important}.sub a:hover,.menu>li>a:hover,.sub-toggle:hover{color:var(--gold2)}
 .hero h1,.hero-in{text-shadow:0 2px 24px rgba(0,0,0,.6)}
+
+/* ---- Sharp angular pass ---- */
+:root{--serif:"Playfair Display","Didot","Bodoni 72","Iowan Old Style","Palatino Linotype",Georgia,serif}
+body{line-height:1.6}
+*,*::before,*::after{border-radius:0!important}
+h1,h2,h3,h4,h5,h6{font-weight:800;line-height:1.08;letter-spacing:-.01em;margin:1.2em 0 .4em}
+h1{letter-spacing:-.02em}
+h2{text-transform:none;position:relative;padding-bottom:.45em}
+.prose h2::after,.content-wrap h2::after,.visit h2::after,.cta-band h2::after{content:"";display:block;width:56px;height:2px;background:var(--gold);margin-top:.45em}
+.page-hero h1,.cta-band h2,.hero h1{text-transform:uppercase;letter-spacing:.04em;font-weight:800}
+.page-hero h1::after,.hero h1::after{content:"";display:block;width:72px;height:2px;background:var(--gold);margin:.5em auto 0}
+.cta-band h2::after{margin:.45em auto 0}
+.btn{border-width:1px;padding:.85em 1.7em;letter-spacing:.2em;font-weight:700;font-size:.74rem;box-shadow:none;transition:background .15s,color .15s}
+.btn:hover{background:var(--gold);color:#000}
+.btn.gold{background:var(--gold);color:#000;border-color:var(--gold)}.btn.gold:hover{background:#fff;border-color:#fff;color:#000}
+.nav-cta{border:1px solid var(--gold)}
+.site-header{border-bottom:1px solid rgba(201,162,77,.45)}
+.review,.form-wrap,.cards a,.card{border:1px solid rgba(201,162,77,.4);box-shadow:none}
+.review{border-top:2px solid var(--gold);padding:18px 20px}
+.prose>img,.prose p>img,.gallery img{box-shadow:none;border:1px solid rgba(201,162,77,.35)}
+.gform input[type=text],.gform input[type=email],.gform input[type=tel],.gform input[type=number],.gform input[type=date],.gform input[type=time],.gform input[type=url],.gform select,.gform textarea,.gform input:not([type]){border:1px solid rgba(201,162,77,.5)}
+.content-wrap{padding:34px 0 52px}.page-hero{padding:56px 0 42px}.visit{padding:44px 0}.cta-band{padding:46px 0}
+.site-footer{padding:40px 0 84px}.site-footer{border-top:2px solid var(--gold)}
+hr,.faq-item{border-color:rgba(201,162,77,.3)}
+.vt b{font-weight:700}
