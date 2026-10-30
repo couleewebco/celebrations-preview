@@ -705,7 +705,7 @@ Partner hotel options for the [**VIP Hotel Shuttle**](/hotel-shuttle-service/), 
 
 **Country Inn & Suites**
 
-- **Phone:** [225-532-5863](tel:+12255325863)
+- **Phone:** [608-394-3674](tel:+16083943674)
 - **Contact:** Wilks
 - **Address:** 2110 Rose St, La Crosse, WI 54603 | [Map It](https://www.google.com/search?client=firefox-b-1-d&q=2110+Rose+St%2C+La+Crosse%2C+WI+54603#)
 - **Email:** [wholmes@jacaruso.com](mailto:wholmes@jacaruso.com)

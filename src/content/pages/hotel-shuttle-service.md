@@ -204,7 +204,7 @@ Country Inn
 ## Country Inn
 
 - Address: [2110 Rose St, La Crosse, WI 54603 | Map It](https://goo.gl/maps/ncqmfy5vBr6YQVkG7)
-- Phone: [(225) 532-5863](tel:+12255325863)
+- Phone: [(608) 394-3674](tel:+16083943674)
 - Contact Person: Wilks
 - Email: [wholmes@jacaruso.com](mailto:wholmes@jacaruso.com)
 - [Website](https://www.choicehotels.com/wisconsin/la-crosse/country-inn-suites-hotels/wi462?mc=llgoxxpx)
