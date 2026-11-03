@@ -113,7 +113,7 @@ content:
         label: Rating badges on home page
         type: object
         list: true
-        fields: [{ name: source, type: string }, { name: text, type: string }, { name: url, type: string }]
+        fields: [{ name: source, type: string }, { name: key, type: string, description: "theknot or weddingwire - the count/rating is filled in automatically at build time" }, { name: text, type: string, description: "Fallback text only" }, { name: url, type: string }]
       - name: nav
         label: Main menu (3 levels max)
         type: object

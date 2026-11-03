@@ -14,7 +14,8 @@ Tips: make photos ≤ 2000px wide JPEGs (big files slow the site). Videos should
 ## Edit with files (also free)
 - Pages: `src/content/pages/*.md` · Past weddings: `src/content/stories/` · Blog: `src/content/blog/`
 - Top of each file (between the `---` lines) = title, search description, banner photo/video, videos. Below = the page text in Markdown.
-- Menu, phone, footer links, buttons, ratings: `src/_data/site.json`
+- Menu, phone, footer links, buttons, rating badge links: `src/_data/site.json`
+- Review counts/ratings are NOT typed in: `src/_data/reviews.js` fetches them at build time (last-known fallback in `src/_data/reviews-fallback.json`). A daily GitHub Actions rebuild (`docs/rebuild-preview.workflow.yml.txt` - copy to `.github/workflows/` to enable) keeps the preview current. Optional: add a repo secret `GOOGLE_PLACES_API_KEY` to also show a live Google rating badge.
 - Photos, videos and PDFs: `src/media/`
 - Form questions (copied from the old site): `src/_data/gforms.json`
 - Colors/fonts: `src/assets/css/site.css`

@@ -9,7 +9,7 @@ bodyClass: home
     <p class="eyebrow">{{ site.name }}</p>
     <h1>{{ hero_title }}<span>{{ hero_sub }}</span></h1>
     <p class="btnrow"><a class="btn gold" href="{{ site.cta_primary.url }}">{{ site.cta_primary.label }}</a> <a class="btn ghost" href="{{ site.cta_secondary.url }}">{{ site.cta_secondary.label }}</a> <a class="btn ghost call" href="tel:{{ site.phone_tel }}">Call {{ site.phone }}</a></p>
-    <p class="badges">{% for b in site.rating_badges %}<a href="{{ b.url }}" target="_blank" rel="noopener">★ {{ b.source }} {{ b.text }}</a>{% endfor %}</p>
+    <p class="badges">{% for b in site.rating_badges %}{% set r = reviews[b.key] %}<a href="{{ b.url }}" target="_blank" rel="noopener">★ {{ b.source }} {% if r %}{{ r.rating }} stars · {{ r.count }} reviews{% else %}{{ b.text }}{% endif %}</a>{% endfor %}{% if reviews.google %}<a href="https://www.google.com/maps/place/?q=place_id:ChIJB89RbHlU-YcR7AMGlAam_6U" target="_blank" rel="noopener">★ Google {{ reviews.google.rating }} stars · {{ reviews.google.count }} reviews</a>{% endif %}</p>
   </div>
 </section>
 <section class="venues-row"><div class="wrap grid3">

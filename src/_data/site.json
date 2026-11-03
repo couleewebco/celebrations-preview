@@ -305,11 +305,13 @@
  "rating_badges": [
   {
    "source": "The Knot",
-   "text": "4.8 stars · 191 reviews",
+   "key": "theknot",
+   "text": "4.8 stars · 199 reviews",
    "url": "https://www.theknot.com/marketplace/celebrations-on-the-river-la-crosse-wi-1062319#navReviews"
   },
   {
    "source": "WeddingWire",
+   "key": "weddingwire",
    "text": "4.6 stars · 65 reviews",
    "url": "https://www.weddingwire.com/biz/celebrations-on-the-river-la-crosse/83a8f9c8dc54595d.html"
   }

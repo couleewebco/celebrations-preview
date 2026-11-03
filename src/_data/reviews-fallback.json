@@ -1,0 +1,5 @@
+{
+  "_note": "Last known values, used whenever a live lookup fails so builds never break. Verified 2026-11-02: The Knot 4.8 / 199 reviews; WeddingWire 4.6 / 65 reviews.",
+  "theknot": { "rating": 4.8, "count": 199 },
+  "weddingwire": { "rating": 4.6, "count": 65 }
+}
