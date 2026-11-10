@@ -23,9 +23,17 @@ Tips: make photos ≤ 2000px wide JPEGs (big files slow the site). Videos should
 ## Run it on your computer
 `npm install` then `npm start` (opens a live preview), `npm run build` (makes the `_site` folder).
 
-## Making the forms deliver email (needs a free form service)
-The forms are real, but they need an address to send to. Create a free form at Formspree (formspree.io) or Web3Forms, paste its URL into **Site Settings → "Form delivery address"** (`form_endpoint` in `site.json`). Until then forms show the phone/email and a link to the old website's form.
-The Wedding Cost Calculator and the tour-booking calendar still use the old/original tools (linked/embedded).
+## Forms and the wedding calculator
+Forms (tours, contact, open dates, quotes, taste-test RSVP, careers, and the calculator’s Share Quote) POST to the Cloudflare Worker in `form_endpoint` (`src/_data/site.json`), currently `https://celebrations-forms.couleewebco.workers.dev`. The in-page wedding cost calculator lives in `src/assets/calculator/` and is included on the calculator page. Do not point `form_endpoint` at Formsubmit or another third-party form service unless you intend to replace the Worker.
+
+## Before going live (launch flip)
+Keep `"noindex": true` in `src/_data/site.json` (or "Hide from Google" checked in Site Settings) until the moment of cutover so this preview stays out of Google.
+
+When the site is ready to replace celebrationslacrosse.com:
+
+1. Set `"noindex": false` (or untick "Hide from Google") so `robots.txt` allows crawlers and the sitemap can be listed. Rebuild after this change.
+2. Build and host with `PATH_PREFIX` unset (see Cloudflare Pages notes below). Leave the prefix set only for the GitHub Pages preview at `/celebrations-preview/`.
+3. Outside this repo, confirm before DNS cutover: the form Worker allows `https://celebrationslacrosse.com` (and `www`) in CORS; Resend is verified for the live from-address; and mail goes to the client inbox (not the test address). Those DNS, Resend, and Worker changes are not made in this repository.
 
 ## Hosting
 - **Preview** (now): GitHub Pages from the `gh-pages` branch (built copy of the site), hidden from Google. To make the preview rebuild automatically after edits, copy `docs/github-pages-workflow.yml.txt` to `.github/workflows/pages.yml` (needs a GitHub login with workflow permission), then set Pages source to *GitHub Actions*. Cloudflare Pages (below) rebuilds automatically with no extra setup.

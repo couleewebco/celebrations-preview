@@ -14,7 +14,7 @@ type: page
 
 Celebrations is very different when it comes to bar service for your wedding or special event. We don’t have small portable bars with just a couple options, limited drink menus or silly rules like “no shots” or “no doubles” like other venues. We have huge, full-service bars with no rules, vast drink menus, and super fast service by rock-star bartenders! Now, let’s have some FUN!
 
-![](/media/2024/05/Bar-Packages.jpg)
+![Bar Packages at Celebrations on the River](/media/2024/05/Bar-Packages.jpg)
 
 ## Bar Packages:
 
@@ -43,7 +43,7 @@ Celebrations is very different when it comes to bar service for your wedding or 
 
 **Subject to availability. No credits on unconsumed beverages. Open bar for bride/groom, up to 9 hours. Valid ID required for all alcoholic beverages, no exceptions. Outside beverages not allowed. Sales tax not included.*
 
-![](/media/2024/05/Open-Bar.jpeg)
+![Open Bar at Celebrations on the River](/media/2024/05/Open-Bar.jpeg)
 
 ## Open Bar Options:
 
@@ -67,7 +67,7 @@ Celebrations is very different when it comes to bar service for your wedding or 
 
 **Price based on the minimum guest count or the final guest count, whichever is greater. Valid ID required for all alcoholic beverages, no exceptions. Outside beverages not allowed. No credits or refunds. Sales tax not included.*
 
-![](/media/2024/05/Bridal-Suite-and-Groom-Suite-3_Final.jpg)
+![Bridal suite and groom suite at Celebrations on the River](/media/2024/05/Bridal-Suite-and-Groom-Suite-3_Final.jpg)
 
 ## Bridal Suite & Groom Suite Menu:
 
@@ -127,7 +127,7 @@ Celebrations is very different when it comes to bar service for your wedding or 
 
 **Up to 12 guests included. Self-serve in Bridal/Groom Suite. Includes 18% Beverage Service Fee. Valid ID required for alcoholic beverages, no exceptions. Outside alcohol not allowed. Cooked or refrigerated food not allowed. No credits. Sales tax not included.*
 
-![](/media/2024/05/Tap-Beer-9_Final.jpg)
+![Tap beer at Celebrations on the River](/media/2024/05/Tap-Beer-9_Final.jpg)
 
 ## Tap Beer Menu:
 
@@ -160,7 +160,7 @@ Celebrations is very different when it comes to bar service for your wedding or 
 
 *(1) 1/2 barrel serves approximately 120 16oz beers.*
 
-![](/media/2024/05/Wine_Final2.jpg)
+![Wine at Celebrations on the River](/media/2024/05/Wine_Final2.jpg)
 
 ## Wine Menu:
 
@@ -176,7 +176,7 @@ Celebrations is very different when it comes to bar service for your wedding or 
 
 ***Additional 18% Beverage Service Fee and 5.5% WI sales tax applies. Prices subject to change. Valid ID required for alcoholic beverages, no exceptions. Outside alcohol is not allowed.*
 
-![](/media/2024/05/Signature-Drinks_Final.jpg)
+![Signature Drinks at Celebrations on the River](/media/2024/05/Signature-Drinks_Final.jpg)
 
 ## Signature Drinks:
 
@@ -193,7 +193,7 @@ If you can dream it, we can make it for you! Options are virtually endless, but 
 
 **See event planner for pricing and service options. Additional 18% Beverage Service Fee and 5.5% WI sales tax applies. Valid ID required for alcoholic beverages, no exceptions. Outside alcohol is not allowed.*
 
-![](/media/2024/05/Drink-Tickets_Final.jpg)
+![Drink Tickets at Celebrations on the River](/media/2024/05/Drink-Tickets_Final.jpg)
 
 ## Drink Tickets:
 
@@ -202,7 +202,7 @@ If you can dream it, we can make it for you! Options are virtually endless, but 
 
 **Additional 18% Beverage Service Fee and 5.5% WI sales tax applies. Tickets provided by Celebrations. Prices subject to change. Valid ID required for alcoholic beverages, no exceptions. Outside beverages not allowed.*
 
-![](/media/2024/05/Pepsi_Final.jpg)
+![Pepsi at Celebrations on the River](/media/2024/05/Pepsi_Final.jpg)
 
 ## Soda:
 

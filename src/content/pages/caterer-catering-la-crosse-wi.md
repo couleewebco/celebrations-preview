@@ -143,7 +143,7 @@ Celebrate life's special moments with loved ones and delicious catering.
 
 ![Catering Beverages Menu](/media/2025/01/Coffee-Water.jpg)
 
-![](/media/2025/01/Catering-Service-Options.png)
+![Catering Service Options at Celebrations on the River](/media/2025/01/Catering-Service-Options.png)
 
 ## Service That Fits Your Style Pick Up or Delivery | Self-Serve or Full Service
 
@@ -236,9 +236,9 @@ Complete the Form Below
 
 [sales@CelebrationsLaCrosse.com](mailto:Sales@CelebrationsLaCrosse.com)
 
-![](/media/2025/03/Catering-Contact-Form.jpg)
+![Catering Contact Form at Celebrations on the River](/media/2025/03/Catering-Contact-Form.jpg)
 
-![](/media/2025/03/celebrations-C-.White_.png)
+![Celebrations on the River logo](/media/2025/03/celebrations-C-.White_.png)
 
 ## WHY CELEBRATIONS?
 

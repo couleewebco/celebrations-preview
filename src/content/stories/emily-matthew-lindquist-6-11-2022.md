@@ -27,7 +27,7 @@ We picked Celebrations because of the guidance we were provided for vendors and 
 
 We enjoyed our ceremony at Newman Center and being able to speak with our guests during the reception while they enjoyed appetizers and happy hour.
 
-![](https://lh3.googleusercontent.com/CBV7b1zDYszWeYb9H634p_BMuOuA3aGwGcydl3vBUzEzOOejqD_AKSARAT9lYels66NFdVZyJ8KQxVoxJesNzkHY__kHAYL_hr6rqDrkkTjKQvm7lwcLHCQOBTnfN1pl64k-tvNcKY1BL3QUYpKS98xU8lSOCIRmQM68uGKg2pX5I-ERTKT5wm2w0tMhbg)
+![Wedding photo of Emily & Matthew Lindquist ](https://lh3.googleusercontent.com/CBV7b1zDYszWeYb9H634p_BMuOuA3aGwGcydl3vBUzEzOOejqD_AKSARAT9lYels66NFdVZyJ8KQxVoxJesNzkHY__kHAYL_hr6rqDrkkTjKQvm7lwcLHCQOBTnfN1pl64k-tvNcKY1BL3QUYpKS98xU8lSOCIRmQM68uGKg2pX5I-ERTKT5wm2w0tMhbg)
 
 **Would you change anything if you could do it all over again?**
 

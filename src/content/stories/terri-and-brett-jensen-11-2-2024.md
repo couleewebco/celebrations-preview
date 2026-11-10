@@ -12,7 +12,7 @@ heading: Terri & Brett Jensen | 11.2.2024
 type: story
 ---
 
-![](/media/2024/11/Cheers-Terri-Janus.jpg)
+![Wedding photo of Terri & Brett Jensen ](/media/2024/11/Cheers-Terri-Janus.jpg)
 
 **Why did you host your wedding at Celebrations on the River?**
 

@@ -21,13 +21,13 @@ Some gorgeous options for a fall wedding would be colors like burnt orange, burg
 
 **Winter Colors**
 
-![](https://lh6.googleusercontent.com/CM5fVVAU9yhYKFwXCelrnIH9NzS8fokFbUPOet1k0G2NDxPMNaZtqmKTmfney-kgGBQNep-srzWqYPQALzj0I-rFBg02d9jMjBNeVUE08Bo0sZ5bKw-q6W6v21-AwkRMRBZ7s33ClCFdtEN_FSDkaZs)
+![Seasonal Wedding Color Inspiration — photo from Celebrations on the River](https://lh6.googleusercontent.com/CM5fVVAU9yhYKFwXCelrnIH9NzS8fokFbUPOet1k0G2NDxPMNaZtqmKTmfney-kgGBQNep-srzWqYPQALzj0I-rFBg02d9jMjBNeVUE08Bo0sZ5bKw-q6W6v21-AwkRMRBZ7s33ClCFdtEN_FSDkaZs)
 
 So many colors go with a winter wedding but here are just a few ideas; blues, grays, silvers, purples etc. The snow is falling outside and you get to experience a breathtaking wedding full of all the colors that remind you of winter. People forget how much of a beautiful time winter is to have your wedding, don’t let the cold stop you from choosing this season for your special day. Imagine an elegant venue that perfectly matches your desired color combinations for winter!
 
 **Summer Colors**
 
-![](https://lh4.googleusercontent.com/W7VAV_sTWgypeuRS5jJtFHzjWeXSIEDvk0gHNRSrApPq8OzUW0L5OliObw3lSXNcZZvb3pb7MP3fhE8WQ6yqroC_vjeVo8_d-jnL64W7HX2hzd6fBP_wPEeQjcP-bGneBWq_vKlWSRy6atXe5xhlAU99ZKUoC5c2reI6UAaHZJwUXQ5HGg6zN7mn4w)
+![Seasonal Wedding Color Inspiration — photo from Celebrations on the River](https://lh4.googleusercontent.com/W7VAV_sTWgypeuRS5jJtFHzjWeXSIEDvk0gHNRSrApPq8OzUW0L5OliObw3lSXNcZZvb3pb7MP3fhE8WQ6yqroC_vjeVo8_d-jnL64W7HX2hzd6fBP_wPEeQjcP-bGneBWq_vKlWSRy6atXe5xhlAU99ZKUoC5c2reI6UAaHZJwUXQ5HGg6zN7mn4w)
 
 Summer is such a stunning season to have your wedding in. Your guests can have fun inside your venue and also outside! The grass is green and the sun is out, how perfect. The color ideas for summer are endless. From pinks & yellows to greens & blues, it’s all up to you! You and your bridesmaids can hold gorgeous pink bouquets with pops of color while wearing dazzling light pink dresses.
 

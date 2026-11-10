@@ -48,7 +48,7 @@ RSVP’s are required a minimum of 14 days prior to the Taste Test date. To RSVP
 
 [![A red button with the word rsvp written in white.](/media/2022/07/rsvp-button.png)](/taste-test-rsvp/)
 
-![](/media/2024/11/Unlimited-Decorations-at-Celebrations-on-the-River.jpg)
+![Event decorations at Celebrations on the River](/media/2024/11/Unlimited-Decorations-at-Celebrations-on-the-River.jpg)
 
 ## DECORATIONS Get Ready For Inspiration
 

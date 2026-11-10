@@ -12,7 +12,7 @@ heading: Marisah & Trevor McDonald | 12.14.2024
 type: story
 ---
 
-![](/media/2024/12/IMG_1110_VSCO-Marisah-McDonald.jpeg)
+![Wedding photo of Marisah & Trevor McDonald ](/media/2024/12/IMG_1110_VSCO-Marisah-McDonald.jpeg)
 
 **Why did you host your wedding at Celebrations on the River?Â**
 

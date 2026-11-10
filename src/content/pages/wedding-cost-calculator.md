@@ -15,7 +15,7 @@ calculator: true
 
 We are proud to be one of the very few venues in La Crosse, WI that provide upfront pricing 24/7. We understand knowing how much your wedding will cost is very important. That's why we offer a wedding cost calculator to easily see how things like your guest count, wedding package, optional add-ons, and unique customization impact the total costs of your special day. It's an all-inclusive price, including all fees, gratuity, and sales tax.
 
-![](/media/2025/01/Calculator-14_Final.jpg)
+![Wedding cost calculator on a laptop](/media/2025/01/Calculator-14_Final.jpg)
 
 ## How Much Will My Wedding Cost? Choose From the Options Below to Calculate Your Wedding Price
 
@@ -24,6 +24,8 @@ How To Use The Wedding Cost Calculator:
 1. **Choose Your Options.** Select from the options provided to calculate your wedding expenses.
 2. **Customize to Your Budget.** Feel free to make adjustments to fit your budget better.
 3. **Submit & Share.** Once you're satisfied, you can submit your quote to check for available discounts and open dates. Or download a PDF, email yourself a copy, or share it with loved ones.
+
+<!-- insert:wedding-calculator -->
 
 ## ALL THE INFORMATION YOU WANT - UPFRONT Wedding Cost Calculator = No Games. No Hidden Fees. No Non-Sense.
 
@@ -39,7 +41,7 @@ How To Use The Wedding Cost Calculator:
 - [Ready To Book? See the full Agreement](/media/2024/11/Celebrations__Agreement_V27.pdf)
 - [Rainy Day Backup Plans](/media/2024/05/Rainy-Day-Backup-Plans_2024.pdf)
 
-![](/media/2024/11/Wedding-Packages-Wedding-Venue-Options-for-Wedding-Packages-8.jpg)
+![Wedding venue and package options at Celebrations on the River](/media/2024/11/Wedding-Packages-Wedding-Venue-Options-for-Wedding-Packages-8.jpg)
 
 ## READY TO GET THIS PARTY STARTED?
 
@@ -59,7 +61,7 @@ Submit Your Question Online
 
 [608-783-3335](tel:+ 16087833335)
 
-![](/media/2024/11/Unlimited-Decorations-at-Celebrations-on-the-River.jpg)
+![Event decorations at Celebrations on the River](/media/2024/11/Unlimited-Decorations-at-Celebrations-on-the-River.jpg)
 
 ## Financing Available! Buy Now – Pay Later with No Fees and 0% Interest***
 

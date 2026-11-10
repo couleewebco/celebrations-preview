@@ -1,0 +1,26 @@
+<link rel="stylesheet" href="/assets/calculator/calculator.css">
+<section id="wedding-calculator" class="wedding-calculator" data-model="{{ env.prefix }}assets/calculator/model.json" data-prefix="{{ env.prefix }}" data-endpoint="{{ site.form_endpoint }}" aria-label="Custom wedding quote calculator">
+  <h2>YOUR CUSTOM WEDDING QUOTE*</h2>
+  <p class="calc-notice">Build your estimate below. Dates, availability, prices and final details must be confirmed with Celebrations. This estimate is not a reservation.</p>
+  <p id="calc-loading" role="status">Loading your quote calculator…</p>
+  <div class="calc-layout" hidden>
+    <form id="calc-options" novalidate></form>
+    <aside class="calc-summary" aria-label="Your quote summary">
+      <h3>Your Custom Wedding Quote</h3>
+      <div id="calc-lines"></div>
+      <div id="calc-totals" aria-live="polite" aria-atomic="true"></div>
+      <p class="calc-notice">*Estimate only. Subject to availability and confirmation. Optional vendors and shuttle are not booked by sharing this quote.</p>
+      <button type="button" class="btn gold" id="calc-share">Share Quote</button>
+      <button type="button" class="btn" id="calc-pdf">Print / Save PDF</button>
+    </aside>
+  </div>
+  <section id="calc-share-panel" hidden>
+    <h3>Share Quote</h3>
+    <p>Send your selections and itemized estimate to Celebrations.</p>
+    <form id="calc-quote-form"></form>
+    <p id="calc-send-status" role="status"></p>
+  </section>
+  <div id="calc-print" aria-hidden="true"></div>
+  <noscript>Please enable JavaScript to build your wedding quote, or call Celebrations for help.</noscript>
+</section>
+<script type="module" src="/assets/calculator/calculator.js"></script>

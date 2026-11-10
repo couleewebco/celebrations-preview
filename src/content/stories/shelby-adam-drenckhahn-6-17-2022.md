@@ -15,7 +15,7 @@ type: story
 
 We chose burgundy & navy. We liked the color combination together.
 
-![](https://lh3.googleusercontent.com/aPgbexsfgGXvUZyBDw9B9VUJ3V0RQ6-Uv2zoLAeJ8OaHd1HY9pj85-Vk2ODXnrqnlO_SWSeMC4plmlzNBJ7TyIBiuUZBz0wrmrqMPtSVa_0189U3s7I1_JJQOxnx-COr90Lp1z3co_EYdhOkh-2cjiEIX7XK556gHq8nTpz57Wa7uVA0Pw2B1XjxAvALfA)
+![Wedding photo of Shelby & Adam Drenckhahn ](https://lh3.googleusercontent.com/aPgbexsfgGXvUZyBDw9B9VUJ3V0RQ6-Uv2zoLAeJ8OaHd1HY9pj85-Vk2ODXnrqnlO_SWSeMC4plmlzNBJ7TyIBiuUZBz0wrmrqMPtSVa_0189U3s7I1_JJQOxnx-COr90Lp1z3co_EYdhOkh-2cjiEIX7XK556gHq8nTpz57Wa7uVA0Pw2B1XjxAvALfA)
 
 **What was the inspiration for the look and feel of your wedding?**
 
@@ -29,7 +29,7 @@ We chose Celebrations to host our wedding because everything was very easy for u
 
 Celebrating our love with our closest family & friends.
 
-![](https://lh5.googleusercontent.com/jaY6xEgzE5q-sr7ZPEW60cu8rGJp1grF1dzNibM61YWIMiFx--wuavCf6_cCrZV9ImnCPHzxUp-H28ENZBmn2mBJp3ZkHZBEEGOL0mQbr6NKX6SD6qmps60kZHTZmgIzEE9iFLRo42JybGvJgTpkX96xUI7Iw9vOoIS89VyfLF6ErKmT2xX_hDFTdjs7lA)
+![Wedding photo of Shelby & Adam Drenckhahn ](https://lh5.googleusercontent.com/jaY6xEgzE5q-sr7ZPEW60cu8rGJp1grF1dzNibM61YWIMiFx--wuavCf6_cCrZV9ImnCPHzxUp-H28ENZBmn2mBJp3ZkHZBEEGOL0mQbr6NKX6SD6qmps60kZHTZmgIzEE9iFLRo42JybGvJgTpkX96xUI7Iw9vOoIS89VyfLF6ErKmT2xX_hDFTdjs7lA)
 
 **Would you change anything if you could do it all over again?**
 
@@ -47,7 +47,7 @@ Stay on top of the planning, meeting with the team at Celebrations when needed, 
 
 We knew the count that we ideally wanted but also made a list of the people who had to be invited. We had to make a cut off so our guest count didn’t get too large as we wanted our wedding to be personal.
 
-![](https://lh5.googleusercontent.com/1JCksOu2IvLkUvQ19ZzVMlFE01UiLEuiRpZtmVaRXP1CJwgxBbLjNWfIxupo4hZ21XnqXx0QI7JCwGa2kG9SemRcuGFTJlGJbH5Z8XkDwe4wnZwD2833SpVM4OhRYTsJH4j13EBRoWUN5fBH0ZJaCTj_TLNRtfA8xazNKQYonca3fvXNWPvTihQQlInCXw)
+![Wedding photo of Shelby & Adam Drenckhahn ](https://lh5.googleusercontent.com/1JCksOu2IvLkUvQ19ZzVMlFE01UiLEuiRpZtmVaRXP1CJwgxBbLjNWfIxupo4hZ21XnqXx0QI7JCwGa2kG9SemRcuGFTJlGJbH5Z8XkDwe4wnZwD2833SpVM4OhRYTsJH4j13EBRoWUN5fBH0ZJaCTj_TLNRtfA8xazNKQYonca3fvXNWPvTihQQlInCXw)
 
 **Who were your vendors? (DJ, Photographer, Flowers, Hair/Makeup, Dessert, etc.) How did you choose them?**
 

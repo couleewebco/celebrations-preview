@@ -35,7 +35,7 @@ I would not change anything, it was a perfect day!
 
 Making sure everything was perfectly set up.
 
-![](https://lh5.googleusercontent.com/q1qmGhB2hUujtaMjBiQjsDzrrRgCC95flA93DCxe66zWOqjiQURthrO6YrduijTy8edhv3RNMG4Kl0BFoMq3-HHqil47VHnMpm7CWwUro6rInYIzeqyMBL0SoJKSCYzNViARPomVUkkKgR9hTrKirL-kA--XvPmLO9kogVLqRFO7o0Ppf_uRwZTNQUnAbQ)
+![Wedding photo of Shelby & Rebel Finley ](https://lh5.googleusercontent.com/q1qmGhB2hUujtaMjBiQjsDzrrRgCC95flA93DCxe66zWOqjiQURthrO6YrduijTy8edhv3RNMG4Kl0BFoMq3-HHqil47VHnMpm7CWwUro6rInYIzeqyMBL0SoJKSCYzNViARPomVUkkKgR9hTrKirL-kA--XvPmLO9kogVLqRFO7o0Ppf_uRwZTNQUnAbQ)
 
 **What advice do you have for future couples planning their weddings?**
 

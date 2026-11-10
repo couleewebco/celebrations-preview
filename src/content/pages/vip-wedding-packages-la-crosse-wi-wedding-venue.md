@@ -17,7 +17,7 @@ showPdfs: true
 
 [BOOK FREE VENUE TOUR](/schedule-a-tour/)
 
-![](/media/2024/11/Wedding-Packages-La-Crosse-WI-Wedding-Package-Venue_Website_Updated.jpg)
+![Wedding Packages La Crosse WI Wedding Package Venue at Celebrations on the River](/media/2024/11/Wedding-Packages-La-Crosse-WI-Wedding-Package-Venue_Website_Updated.jpg)
 
 ## EASY, ROMANTIC AND CUSTOMIZABLE These Wedding Packages in La Crosse are LOADED with Options and Savings!
 
@@ -37,7 +37,7 @@ showPdfs: true
 
 ## ROOM RENTAL FEE & WHAT'S INCLUDED Our Promise: Complete Transparency, Upfront Pricing and No Hidden Fees
 
-![](/media/2024/11/Celebrations-on-the-river-wedding_La-Crosse-WI_Wedding-Packages_VIP-Wedding-Pakages.jpg)
+![Celebrations on the river wedding La Crosse WI Wedding Packages VIP Wedding Pakages](/media/2024/11/Celebrations-on-the-river-wedding_La-Crosse-WI_Wedding-Packages_VIP-Wedding-Pakages.jpg)
 
 ![Room Rental Fees at Celebrations on the River](/media/2026/02/Room-Rental-Fees-for-26-28_As-of-2.9.26_Final2.png)
 
@@ -67,7 +67,7 @@ Up to 275 guests
 
 Up to 325 guests
 
-![](/media/2025/06/Wedding-Planning-Cost-Calculator.jpg)
+![Wedding Planning Cost Calculator at Celebrations on the River](/media/2025/06/Wedding-Planning-Cost-Calculator.jpg)
 
 ### How Much Will It Cost?
 
@@ -75,7 +75,7 @@ Check Out Our Online Calculator For an All-Inclusive Price, Including all Fees, 
 
 [COST CALCULATOR](/wedding-cost-calculator/)
 
-![](/media/2024/11/Unlimited-Decorations-at-Celebrations-on-the-River.jpg)
+![Event decorations at Celebrations on the River](/media/2024/11/Unlimited-Decorations-at-Celebrations-on-the-River.jpg)
 
 ## UNLIMITED WEDDING DECORATIONS Available on VIP Wedding Packages
 
@@ -117,7 +117,7 @@ Check Out Our Online Calculator For an All-Inclusive Price, Including all Fees, 
 
 ## TOP-RATED VIP VENDORS EXCLUSIVE Savings on Pre-Screened, Trusted and Ridiculously Talented Vendors
 
-![](/media/2024/11/VIP-Vendors-for-Wedding-Packages.jpg)
+![VIP Vendors for Wedding Packages at Celebrations on the River](/media/2024/11/VIP-Vendors-for-Wedding-Packages.jpg)
 
 [![VIP Photographer all inclusive Wedding packages la crosse](/media/2024/11/VIP-Wedding-Package-with-VIP-Photographer.jpg)](/vip-photographers/)
 
@@ -133,7 +133,7 @@ This is a revolutionary way to plan your wedding: an easy, stress-free, and fun 
 
 [Food Menu](/food-menu/)  |  [Drink Menu](/drink-menu/)  |  [Unlimited Decorations](https://celebrations-on-the-river.odoo.com/)
 
-![](/media/2024/11/Wedding-Packages_Contact-Wedding-Planner-at-Celebrations.jpg)
+![Wedding Packages Contact Wedding Planner at Celebrations](/media/2024/11/Wedding-Packages_Contact-Wedding-Planner-at-Celebrations.jpg)
 
 ## READY TO GET THIS PARTY STARTED? Learn About Our Venues, Stress-Free Wedding Planning Process, and Get Personalized Pricing.
 

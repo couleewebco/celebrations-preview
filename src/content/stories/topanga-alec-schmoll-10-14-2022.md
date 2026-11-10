@@ -11,7 +11,7 @@ heading: Topanga & Alec Schmoll | 10.14.2022
 type: story
 ---
 
-![](https://lh4.googleusercontent.com/aAIKGCV-ATzshJJ5fwE-5K-ZRl00d_ihVnQAuVj9-MwUE_ycIND_sd4tZ2ANTwHIwpC-m7Kj_-DPj8qG0d3Y-rpzswB2dgaad6MvwLXlylritakbPfj0bNL9ho-N9L0gvgldcR9kkPgzEjUUSoLbm3j2Lk0ycELN9HR6yuwmitJPQY-S8U2LzA6jhjZbuw)
+![Wedding photo of Topanga & Alec Schmoll ](https://lh4.googleusercontent.com/aAIKGCV-ATzshJJ5fwE-5K-ZRl00d_ihVnQAuVj9-MwUE_ycIND_sd4tZ2ANTwHIwpC-m7Kj_-DPj8qG0d3Y-rpzswB2dgaad6MvwLXlylritakbPfj0bNL9ho-N9L0gvgldcR9kkPgzEjUUSoLbm3j2Lk0ycELN9HR6yuwmitJPQY-S8U2LzA6jhjZbuw)
 
 **What was your color palette? Why did you choose those colors?**
 
@@ -41,7 +41,7 @@ The thing we obsessed over the most was the seating chart. It was difficult tryi
 
 The thing we obsessed over the most was the seating chart. It was difficult trying to sit guests with one another that we thought would best fit, but in the end everyone is there to celebrate with us. Where they sat was not a big deal by any means, as long as we were all together!
 
-![](https://lh4.googleusercontent.com/tK4QXvisOw2JLYRcqTpNA0Czly6cV99OYnuVDLhIcOg7pd7fK8aumbyhZ9XHt1N2pEYNTaunuYie1acRpSE--app9Wj5x14SqR0LSoIn0XFgQ00PMujE8h6L-Qg5NJTTH4EeZfEZg0cD8PnIGY8uX9Ge10Y7mCRfVDPQE1Ly0PvAamLu0DdPDYHM6JyRNA)
+![Wedding photo of Topanga & Alec Schmoll ](https://lh4.googleusercontent.com/tK4QXvisOw2JLYRcqTpNA0Czly6cV99OYnuVDLhIcOg7pd7fK8aumbyhZ9XHt1N2pEYNTaunuYie1acRpSE--app9Wj5x14SqR0LSoIn0XFgQ00PMujE8h6L-Qg5NJTTH4EeZfEZg0cD8PnIGY8uX9Ge10Y7mCRfVDPQE1Ly0PvAamLu0DdPDYHM6JyRNA)
 
 **How did you manage your guest count?**
 

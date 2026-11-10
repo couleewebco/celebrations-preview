@@ -123,7 +123,7 @@ Few can match the ambiance of Center Court's outdoor patio with a full service b
 
 [BOOK FREE VENUE TOUR](/schedule-a-tour/)
 
-![](/media/2025/02/16A6267.jpg)
+![Wedding reception at Center Court](/media/2025/02/16A6267.jpg)
 
 # Center Court - Room Rental Fee
 
@@ -204,7 +204,7 @@ Plan and Price Your Perfect Wedding Without all the Stress.
 
 Tour the Facility with a Professional Wedding Planner
 
-![](/media/2024/11/Unlimited-Decorations-at-Celebrations-on-the-River.jpg)
+![Event decorations at Celebrations on the River](/media/2024/11/Unlimited-Decorations-at-Celebrations-on-the-River.jpg)
 
 ## READY TO GET THIS PARTY STARTED?
 

@@ -298,8 +298,8 @@
   "label": "Check Open Dates",
   "url": "/check-open-dates/"
  },
- "form_endpoint": "https://formsubmit.co/ajax/hello@celebrations.com",
- "form_fallback_note": "Online form submissions are not connected yet in this preview. Please call (608) 783-3335 or email events@celebrationslacrosse.com.",
+ "form_endpoint": "https://celebrations-forms.couleewebco.workers.dev",
+ "form_fallback_note": "If a form does not send, please call (608) 783-3335 or email events@celebrationslacrosse.com.",
  "booking_widget": "https://link.celebrationsontheriver.cc",
  "calculator_original": "https://celebrationslacrosse.com/wedding-cost-calculator/",
  "rating_badges": [

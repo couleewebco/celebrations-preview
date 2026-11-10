@@ -8,7 +8,7 @@
   {% if fld.type == 'section' %}<h3 class="fsec">{{ fld.label or fld.html }}</h3>
   {% elif fld.type == 'html' %}{% if fld.html %}<p class="fhtml">{{ fld.html }}</p>{% endif %}
   {% elif fld.type == 'consent' %}
-  <div class="field consent"><label><input type="checkbox" name="{{ fld.label }}" value="Yes"{{ rq }}> <span>{{ fld.consent or fld.label }}</span></label></div>
+  <div class="field consent"><label><input type="checkbox" name="{{ fld.label }}" value="Yes"{{ rq }}> <span>{{ (fld.consent or fld.label) | replace("Terms & Conditions", '<a href="/terms/">Terms & Conditions</a>') | replace("Privacy Policy", '<a href="/privacy/">Privacy Policy</a>') | safe }}</span></label></div>
   {% elif fld.type == 'checkbox' or fld.type == 'radio' %}
   <fieldset class="field"><legend>{{ fld.label }}{% if fld.required %} <span class="req">*</span>{% endif %}</legend>
     <div class="opts">{% for o in fld.options %}<label><input type="{{ fld.type }}" name="{{ fld.label }}" value="{{ o }}"{% if fld.required and fld.type == 'radio' %} required{% endif %}> <span>{{ o }}</span></label>{% endfor %}</div>

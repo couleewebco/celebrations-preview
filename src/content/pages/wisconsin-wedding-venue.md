@@ -48,7 +48,7 @@ Up to 325 Guests
 
 ### Court Yard Up to 325 Guests
 
-![](/media/2024/04/Celebrations-Wedding-Venue-Background-Picture.jpg)
+![Celebrations Wedding Venue Background Picture](/media/2024/04/Celebrations-Wedding-Venue-Background-Picture.jpg)
 
 ![On-Site Catering](/media/2024/04/Catering_Final.jpg)
 
@@ -100,7 +100,7 @@ Luxury Bridal Suite & Groom Suite
 
 [BOOK FREE VENUE TOUR](/schedule-a-tour/)
 
-![](/media/2024/04/Celebrations-on-the-River-Wedding-Venue-La-Crosse-WI.jpg)
+![Celebrations on the River Wedding Venue La Crosse WI](/media/2024/04/Celebrations-on-the-River-Wedding-Venue-La-Crosse-WI.jpg)
 
 > **Magical**
 > 
@@ -304,7 +304,7 @@ Tour the Facility with a Professional Wedding Planner
 
 How Much Will My Wedding Cost?
 
-![](/media/2024/11/Unlimited-Decorations-at-Celebrations-on-the-River.jpg)
+![Event decorations at Celebrations on the River](/media/2024/11/Unlimited-Decorations-at-Celebrations-on-the-River.jpg)
 
 ## READY TO GET THIS PARTY STARTED?
 

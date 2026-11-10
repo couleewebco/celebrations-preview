@@ -15,7 +15,7 @@ type: story
 
 Silver and dark blue. It fit our winter theme very well.
 
-![](https://lh3.googleusercontent.com/-HivpxC-5Qcz-62ti6oOVjDjSi1nFY6XkFEXXSoTcdPkfRxrGhAZGFfNM4cipCVU0s0Ig6EhR3CPb4FgDSqq-Bz6IhvTzWeWSEeaKYLXqPKxPHFuyTwcrXhJxGEobfI9eS1c_68LTyjwLc7vRh3GQB3nn-rxd4iq8ce4pj0Rl39khvYcBAbyOs4NUXWEkQ)
+![Wedding photo of Michelle & Stephen Schallert ](https://lh3.googleusercontent.com/-HivpxC-5Qcz-62ti6oOVjDjSi1nFY6XkFEXXSoTcdPkfRxrGhAZGFfNM4cipCVU0s0Ig6EhR3CPb4FgDSqq-Bz6IhvTzWeWSEeaKYLXqPKxPHFuyTwcrXhJxGEobfI9eS1c_68LTyjwLc7vRh3GQB3nn-rxd4iq8ce4pj0Rl39khvYcBAbyOs4NUXWEkQ)
 
 **What was the inspiration for the look and feel of your wedding?**
 
@@ -33,7 +33,7 @@ The dinner was our favorite part.
 
 We carefully planned and loved every detail in our wedding and would not have changed any of it.
 
-![](https://lh3.googleusercontent.com/zBpMnuFfd0nI-9kYl0rv6oHbkRVAyMPCTkKPIjdhRgsgX-rCIHFLmFUoBjwmKL4Lu_n4tclYZgr681i6U_hEHZDk9rCCNQKInEiJcju0GUKqoOY90u-8tHMjroLj38gRP4k_c8hBjmKE_R-u5ulLpOiduYf86zsi0vm9mSCPOD8czTJ_9qlRnAx1QQLozw)
+![Wedding photo of Michelle & Stephen Schallert ](https://lh3.googleusercontent.com/zBpMnuFfd0nI-9kYl0rv6oHbkRVAyMPCTkKPIjdhRgsgX-rCIHFLmFUoBjwmKL4Lu_n4tclYZgr681i6U_hEHZDk9rCCNQKInEiJcju0GUKqoOY90u-8tHMjroLj38gRP4k_c8hBjmKE_R-u5ulLpOiduYf86zsi0vm9mSCPOD8czTJ_9qlRnAx1QQLozw)
 
 **What was one thing you obsessed over, but realized it did not matter?**
 

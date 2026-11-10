@@ -15,7 +15,7 @@ type: story
 
 Blues and silver. Blue has been the bride’s favorite color since childhood. Blue everything, blue clothes, blue shoes, blue carpet in her bedroom. Never enough blue! So when she found out the groom also enjoys the color blue, the pallett was set, BLUE!
 
-![](https://lh3.googleusercontent.com/CG4vCXdXZXcVVkqjHnTdJkZA6U447mLha2tB7npuzx_kETbq8C5XItPaPSBckUds5llXKMCuuJHfxH1aZlo4TyBZ4DG7cLS-Oj92l34PGmCLZomY5Vsk1dsWry_wNkDnD0rrSsk53UIo95mKgcTmq6gMv_YVHE1oPkCvLrod6TLhQNgokXOy3GJtQ3msLA)
+![Wedding photo of Amy & Jedd Sebion ](https://lh3.googleusercontent.com/CG4vCXdXZXcVVkqjHnTdJkZA6U447mLha2tB7npuzx_kETbq8C5XItPaPSBckUds5llXKMCuuJHfxH1aZlo4TyBZ4DG7cLS-Oj92l34PGmCLZomY5Vsk1dsWry_wNkDnD0rrSsk53UIo95mKgcTmq6gMv_YVHE1oPkCvLrod6TLhQNgokXOy3GJtQ3msLA)
 
 **What was the inspiration for the look and feel of your wedding?**
 
@@ -29,7 +29,7 @@ We chose to host our wedding at Celebrations on the River for a few reasons. Fir
 
 The favorite moment of our wedding day was our first look which was a moment in the picture path. It was a magical moment within a beautiful scenic spot. It was serene, quiet, and beautiful. We had the cutest picture together on a tandem bike that I will always cherish!
 
-![](https://lh5.googleusercontent.com/n1r-JuUtlMxMd1s3NhNJ-rI1myNjHDtXWTUIhWTgT8k0wI_LRGUMOfzxH6oF7IREt2dUDGLuSjS6ffu6XCd7Onpt3RYGlyspqa2ORF3SW5qD8frvXtosbFRmksNqh5cnxr57UsZ3gTjE0JPtf_KSBnRgg8yaNcfYaCUSa88kWjZd6koIFNzEbo5K9cnRWA)
+![Wedding photo of Amy & Jedd Sebion ](https://lh5.googleusercontent.com/n1r-JuUtlMxMd1s3NhNJ-rI1myNjHDtXWTUIhWTgT8k0wI_LRGUMOfzxH6oF7IREt2dUDGLuSjS6ffu6XCd7Onpt3RYGlyspqa2ORF3SW5qD8frvXtosbFRmksNqh5cnxr57UsZ3gTjE0JPtf_KSBnRgg8yaNcfYaCUSa88kWjZd6koIFNzEbo5K9cnRWA)
 
 **Would you change anything if you could do it all over again?**
 
@@ -43,7 +43,7 @@ One thing I obsessed over but realized it did not matter was what other people w
 
 For future couples planning their weddings, I would advise you to do the VIP package at Celebrations. It took so much stress off of our wedding planning experience and also let us have fun with the decorations and do so much more than what we originally would do on our own.
 
-![](https://lh5.googleusercontent.com/RoPCl6_nevPk8jXzzIGPOAZk2G-6oqgnUbzaOACrelwyPv7Uf-1s3Xps5KQzQYrf9u5LfI8Im_1ueDU4heCG-ieJZ081yq3yHt1cgRxJT_7xucUDuoGQ8sHyvvF5us1w1sksLjGQOljZ2-W1_-WGWvYS2nwPjJGKxC1F_yAW2ccnf6_o9U2nH0k6-M7X8A)
+![Wedding photo of Amy & Jedd Sebion ](https://lh5.googleusercontent.com/RoPCl6_nevPk8jXzzIGPOAZk2G-6oqgnUbzaOACrelwyPv7Uf-1s3Xps5KQzQYrf9u5LfI8Im_1ueDU4heCG-ieJZ081yq3yHt1cgRxJT_7xucUDuoGQ8sHyvvF5us1w1sksLjGQOljZ2-W1_-WGWvYS2nwPjJGKxC1F_yAW2ccnf6_o9U2nH0k6-M7X8A)
 
 **How did you manage your guest count?**
 
