@@ -128,7 +128,7 @@ November 2026:
 
 [Claim Now](/open-date-discounts/#form)
 
-![](/media/2024/03/Bride.jpg)
+![Bride at Celebrations on the River](/media/2024/03/Bride.jpg)
 
 # 2026 Open Date Discounts*
 
@@ -155,7 +155,7 @@ Saturday November 14, 2026 in [River Park](/river-park/) and [Court Yard](/cour
 Saturday December 12, 2026 in [River Park](/river-park/)
 Saturday December 19, 2026 in [River Park](/river-park/)
 
-![](/media/2025/07/Oehler-AR-64.jpg)
+![Oehler AR 64 at Celebrations on the River](/media/2025/07/Oehler-AR-64.jpg)
 
 # 2027 Open Date Discounts*
 

@@ -29,7 +29,7 @@ venues:
 
 Welcome to Celebrations on the River! We are proud to be La Crosse, Wisconsin's premier riverside [wedding](/wisconsin-wedding-venue/), banquet, and special [event](/event-venue-in-la-crosse-wi/) venue. Our facility can accommodate up to 400 guests and offers [in-house catering](/food-menu/), [full-service bars](/drink-menu/), beautiful [decorations](/rentals/), and experienced Wedding/Event Planners to ensure your event is a success. Choose from three stunning venues: [Center Court](/center-court-la-crosse-wedding-venue/), [River Park](/river-park/), or the [Court Yard](/court-yard-all-inclusive-wedding-venue-wisconsin/). When you compare our venue and prices, you will see why Celebrations is the perfect choice for your special occasion. [Schedule a tour today to see for yourself](/schedule-a-tour/) and take a look at our [open dates](/open-date-discounts/)!
 
-![](/media/2022/03/pexels-david-bartus-1677009.jpg)
+![Wedding flowers](/media/2022/03/pexels-david-bartus-1677009.jpg)
 
 ## The Dream Venue for Weddings and Reception Parties
 
@@ -219,7 +219,7 @@ Welcome to Celebrations on the River! We are proud to be La Crosse, Wisconsin's 
 
 — Kori
 
-![](/media/2022/03/pexels-david-bartus-1677009.jpg)
+![Wedding flowers](/media/2022/03/pexels-david-bartus-1677009.jpg)
 
 # The Dream Venue for Weddings and Reception Parties
 
@@ -489,7 +489,7 @@ Alison & Alex Beinborn 12.5.20
 
 - [9 Benefits Of A Wedding Venue With In House Catering](/wedding-venue-with-in-house-catering/)
 
-- [pwsadmin](/blog/)
+- [Wedding Ideas Blog](/blog/)
 
 - [How To Choose A Wedding Venue: Finding Your Perfect Wedding Venue](/how-to-choose-a-wedding-venue/)
 
@@ -507,16 +507,4 @@ Alison & Alex Beinborn 12.5.20
 
 - [Delicious Late Night Snack Suggestions](/delicious-late-night-snack-suggestions/)
 
-Weddings Celebrated
-
-Speeches
-
-Kisses
-
-Hugs
-
-Tears
-
-Drinks
-
-% Happy Customers
+<!-- TODO: Restore homepage stat counters after Adam confirms the numbers (Weddings Celebrated, Speeches, Kisses, Hugs, Tears, Drinks, % Happy Customers). -->

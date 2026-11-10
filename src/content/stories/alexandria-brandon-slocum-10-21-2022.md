@@ -15,7 +15,7 @@ type: story
 
 Peacock teal with rose gold and grey.
 
-![](https://lh4.googleusercontent.com/AwEwrrIY2O0jgOAKk-XpgCRrSuLpw71JJBpUUSvfP4ZTn_5MR7B-ml7viSLge-73O5Sv6OTM7dlqaZqNrU7V4xKI7UeSDC4CNTKPGBStOn81OFSVrXYuxSoAdzpmkmD9RktfIFizvxzU6gyUFRoHNKHhXto6UJfpWAGqkPQdY1pceid0DYt0SF4plIWYGQ)
+![Wedding photo of Alexandria & Brandon Slocum ](https://lh4.googleusercontent.com/AwEwrrIY2O0jgOAKk-XpgCRrSuLpw71JJBpUUSvfP4ZTn_5MR7B-ml7viSLge-73O5Sv6OTM7dlqaZqNrU7V4xKI7UeSDC4CNTKPGBStOn81OFSVrXYuxSoAdzpmkmD9RktfIFizvxzU6gyUFRoHNKHhXto6UJfpWAGqkPQdY1pceid0DYt0SF4plIWYGQ)
 
 **Why did you choose to host your wedding at Celebrations on the River?**
 
@@ -33,7 +33,7 @@ I would make our officiant practice and make sure they and everyone know no cell
 
 Make sure everyone knows the timelines. Made sure the makeup and hair people could stick to their timeline. Take time to be together alone. We did not get that because everything did not go to the time.
 
-![](https://lh3.googleusercontent.com/Ik-2zzklN3KcbuqBSWkTFdT7zAOS4zZIdDstU35h0TrFMF5lj60nwdzPXvUnvUA8U68pFg24ZhLRAy_sDK2QicbTlESZ-vn29VB2FGs5TcHGgGOARPP6xTxjMRVURtrkzxYEGgEnQtuwvg0xRDa6FipLtxQmCFzTvdcxG5KuRwj92P1Jo4Dz9jVpE9enaQ)
+![Wedding photo of Alexandria & Brandon Slocum ](https://lh3.googleusercontent.com/Ik-2zzklN3KcbuqBSWkTFdT7zAOS4zZIdDstU35h0TrFMF5lj60nwdzPXvUnvUA8U68pFg24ZhLRAy_sDK2QicbTlESZ-vn29VB2FGs5TcHGgGOARPP6xTxjMRVURtrkzxYEGgEnQtuwvg0xRDa6FipLtxQmCFzTvdcxG5KuRwj92P1Jo4Dz9jVpE9enaQ)
 
 **How did you manage your guest count?**
 

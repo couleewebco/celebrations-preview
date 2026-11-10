@@ -278,13 +278,6 @@
     "input": "textarea"
    },
    {
-    "type": "fileupload",
-    "label": "Upload Your Resume...",
-    "required": false,
-    "description": "Max. file size: 1 GB.",
-    "name": "f_input_14"
-   },
-   {
     "type": "textarea",
     "label": "Notes",
     "required": true,
@@ -2327,7 +2320,7 @@
     "label": "",
     "required": false,
     "description": "",
-    "html": "SUBJECT: Brochure from Celebrations on the River Hi As requested, here’s the link to your brochure to your dream wedding at Celebrations on the River! Link: https://celebrationslacrosse.com/wp-content/uploads/2022/03/CelebrationsBrochure2020_Web.pdf Are you interested in setting up a tour? Book in the next 14 days and get free mimosas in your bridal suite! Have any questions? Reply to this email and we’ll get you the answers you need very quickly. Thank you for considering Celebrations on the River! #WEARE WEDDINGS"
+    "html": "SUBJECT: Brochure from Celebrations on the River Hi As requested, here\u2019s the link to your brochure to your dream wedding at Celebrations on the River! Link: https://celebrationslacrosse.com/wp-content/uploads/2022/03/CelebrationsBrochure2020_Web.pdf Are you interested in setting up a tour? Book in the next 14 days and get free mimosas in your bridal suite! Have any questions? Reply to this email and we\u2019ll get you the answers you need very quickly. Thank you for considering Celebrations on the River! #WEARE WEDDINGS"
    }
   ],
   "submit": "Submit",

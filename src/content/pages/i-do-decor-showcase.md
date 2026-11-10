@@ -16,7 +16,7 @@ type: page
 
 Join us for a FREE wedding décor show at Celebrations on the River on November 22, 2026 from 12pm - 3pm. Check out over 20,000 square feet of wedding decorations, available for rent, throughout three venues. You'll see 40+ table designs, furniture, floral, signage, photo backdrops, chair coverings, linens, and more.
 
-![](/media/2024/11/Unlimited-Decorations-at-Celebrations-on-the-River.jpg)
+![Event decorations at Celebrations on the River](/media/2024/11/Unlimited-Decorations-at-Celebrations-on-the-River.jpg)
 
 # You're Invited! Free Admission to All Couples
 
@@ -29,7 +29,7 @@ If you're planning a wedding, this event is for you! Get inspired with stunning 
 
 # GET 20% OFF ALL RENTED DECOR!* USE PROMO CODE: 20%OFFDECOR
 
-![](/media/2025/01/BWD322_2206.jpg)
+![BWD322 2206 at Celebrations on the River](/media/2025/01/BWD322_2206.jpg)
 
 ## Décor Rental Collections Available to Rent at Your Venue
 
@@ -73,7 +73,7 @@ If you're planning a wedding, this event is for you! Get inspired with stunning 
 
 [Browse Decor Inventory Options](https://celebrations-on-the-river.odoo.com/)
 
-![](/media/2024/12/16A6267.jpg)
+![Wedding reception at Celebrations on the River](/media/2024/12/16A6267.jpg)
 
 ## 35+ TABLE TOPS ON DISPLAY Available to Rent at Your Venue
 

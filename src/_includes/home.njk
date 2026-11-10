@@ -3,7 +3,7 @@ layout: base.njk
 bodyClass: home
 ---
 <section class="hero">
-  {% if hero.video %}<video class="hero-vid" autoplay muted loop playsinline poster="{{ hero.poster }}"><source src="{{ hero.video }}" type="video/mp4"></video>{% else %}<img class="hero-img" src="{{ hero.image }}" alt="">{% endif %}
+  {% if hero.video %}<video class="hero-vid" autoplay muted loop playsinline poster="{{ hero.poster }}"><source src="{{ hero.video }}" type="video/mp4"></video>{% else %}<img class="hero-img" src="{{ hero.image }}" alt="{{ site.name }} in La Crosse, WI">{% endif %}
   <div class="hero-shade"></div>
   <div class="hero-in wrap">
     <p class="eyebrow">{{ site.name }}</p>

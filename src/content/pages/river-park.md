@@ -139,9 +139,9 @@ Few venues can match the ambiance of River Park's outdoor patio overlooking the 
 - Outdoor Gas Fire Pit
 - Access to Boat Docks
 
-![](/media/2025/02/River-Park-15-1.jpg)
+![River Park 15 1 at Celebrations on the River](/media/2025/02/River-Park-15-1.jpg)
 
-![](/media/2025/02/Reception-Hall_Web_Celebrations.jpg)
+![Reception Hall Web Celebrations](/media/2025/02/Reception-Hall_Web_Celebrations.jpg)
 
 # River Park - Room Rental Fee
 
@@ -222,7 +222,7 @@ Plan and Price Your Perfect Wedding Without all the Stress.
 
 Tour the Facility with a Professional Wedding Planner
 
-![](/media/2025/02/BWD322_2206.jpg)
+![BWD322 2206 at Celebrations on the River](/media/2025/02/BWD322_2206.jpg)
 
 ## READY TO GET THIS PARTY STARTED?
 

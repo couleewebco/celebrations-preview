@@ -14,7 +14,7 @@ type: page
 
 ## Mother's Day Brunch Menu
 
-![](/media/2025/03/Mothers-Day-2025.jpg)
+![Mothers Day 2025 at Celebrations on the River](/media/2025/03/Mothers-Day-2025.jpg)
 
 ![Mother's Day 2026 Food Menu for Mother's Day at Celebrations on the River La Crosse, WI](/media/2026/03/Mothers-Day-3.jpg)
 

@@ -20,7 +20,7 @@ type: page
 
 Discover the unmistakable magic of a winter wedding! From the moment your guests arrive, they are transported into a magical winter wonderland. If you're looking for a winter wedding venue in Wisconsin, the ceremony takes place at a stunning indoor altar decorated with beautiful wintry accents. After the heartfelt "I do's," it's on to an equally exquisite reception party with overhead fairy lights, sparkling Christmas trees, gorgeous table decorations, and artificial snow dusting the dance floor. Your friends and family will raise their glasses as joy and laughter fills the room. As the last dance concludes, you will begin a new chapter in life together, filled with cherished memories of a magical winter wedding day.
 
-![](/media/2024/05/artificial-snow-machine.jpg)
+![artificial snow machine at Celebrations on the River](/media/2024/05/artificial-snow-machine.jpg)
 
 # Winter Wedding Special:
 
@@ -38,7 +38,7 @@ Discover the unmistakable magic of a winter wedding! From the moment your guests
 
 [Wedding Packages](/vip-wedding-packages-la-crosse-wi-wedding-venue/)
 
-![](/media/2024/05/Brantley-Davis-2.jpg)
+![Brantley Davis 2 at Celebrations on the River](/media/2024/05/Brantley-Davis-2.jpg)
 
 ## Top-Rated, All-Inclusive Winter Wedding Venue in La Crosse, WI
 
@@ -90,7 +90,7 @@ All-Inclusive & Fully Customizable.
 
 Luxury Bridal Suites & Groom Suites to Get Ready
 
-![](/media/2024/05/Winter-Wedding-with-Trees-and-Sun.jpg)
+![Winter Wedding with Trees and Sun at Celebrations on the River](/media/2024/05/Winter-Wedding-with-Trees-and-Sun.jpg)
 
 ![Celebrations Logo](/media/2024/11/Celebrations-Logo-PNG-Black.png)
 

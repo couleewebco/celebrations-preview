@@ -8,7 +8,7 @@ bodyClass: inner
 <ul class="cards">
 {% set list = collections.storyList if listing == 'stories' else collections.blogList %}
 {% for p in list %}
-<li><a href="{{ p.url }}">{% set im = p.rawInput | firstImg %}{% if im %}<img src="{{ im | thumb }}" alt="" loading="lazy">{% endif %}<span class="t">{{ p.data.heading or p.data.title }}</span>{% if p.data.date %}<span class="d">{{ p.data.date | readableDate }}</span>{% endif %}</a></li>
+<li><a href="{{ p.url }}">{% set im = p.rawInput | firstImg %}{% if im %}<img src="{{ im | thumb }}" alt="{{ p.data.heading or p.data.title }}" loading="lazy">{% endif %}<span class="t">{{ p.data.heading or p.data.title }}</span>{% if p.data.date %}<span class="d">{{ p.data.date | readableDate }}</span>{% endif %}</a></li>
 {% endfor %}
 </ul>
 </div>

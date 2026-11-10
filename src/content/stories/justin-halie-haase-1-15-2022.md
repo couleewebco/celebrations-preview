@@ -37,7 +37,7 @@ I (Halie) would have taken the time to eat more of the food. I was too busy with
 
 Our guest list/table seating. We had so many people back out last minute and trying to reorganize tables was a headache.
 
-![](https://lh3.googleusercontent.com/qhUSxbzy5XJBDoIhIMc1FvSou2odhi0ci72xom1tIvdVzm-SDz7KOY-yKuG9u0VEH9DD_4M0lcTH-YQDzRZH5UPWo8yvH3yDsZKpGnytrUBt0pE8q7RHBTvXmnYbFfv7wigpyuqKWvqGQbavr3Bo74lDf6O47EQehfY7Wwvf-ZdCrM0Wk0VDNz9qrBJXZg)
+![Wedding photo of Justin & Halie Haase ](https://lh3.googleusercontent.com/qhUSxbzy5XJBDoIhIMc1FvSou2odhi0ci72xom1tIvdVzm-SDz7KOY-yKuG9u0VEH9DD_4M0lcTH-YQDzRZH5UPWo8yvH3yDsZKpGnytrUBt0pE8q7RHBTvXmnYbFfv7wigpyuqKWvqGQbavr3Bo74lDf6O47EQehfY7Wwvf-ZdCrM0Wk0VDNz9qrBJXZg)
 
 **What advice do you have for future couples planning their weddings?**
 

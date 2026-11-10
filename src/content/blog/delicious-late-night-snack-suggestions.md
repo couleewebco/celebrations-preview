@@ -21,13 +21,13 @@ Walking tacos are a great way to fill up your guests stomach because it is all c
 
 **Mac And Cheese Bites**
 
-![](https://lh5.googleusercontent.com/elC7a4WHlaFft_YEZFbFaTd2KYI1jlNxihe6vAExjn445gGrozdDDynGYg46UWkHAd3cQTtlLVm8b4qtzKcYLmx3skAmwVvcEOWKBqOKfn9fNGvBA5ShtW6IPQ97tXThRHqjb5O7iwKUjcXEZu5krAE)
+![Delicious Late Night Snack Suggestions — photo from Celebrations on the River](https://lh5.googleusercontent.com/elC7a4WHlaFft_YEZFbFaTd2KYI1jlNxihe6vAExjn445gGrozdDDynGYg46UWkHAd3cQTtlLVm8b4qtzKcYLmx3skAmwVvcEOWKBqOKfn9fNGvBA5ShtW6IPQ97tXThRHqjb5O7iwKUjcXEZu5krAE)
 
 Mac and cheese bites are a fun option to choose because who doesn’t love a little comfort finger food to finish the night. Mouthwatering mac and cheese deep fried in a crispy golden brown bread coating will definitely keep you and your guests satisfied.
 
 **Wing Bar**
 
-![](https://lh6.googleusercontent.com/jCsMoW_TX0u7pVjpk2fgDx1ol1ROgTdfjEJ1-hS6LjtPSF-p6JNQu_LKDASrlcKcakAUgb89Pyr4XDn_XwA4qxUgyYNwlye3GRewKWXxZgeu13d493Mm5n63bQ8L5bxOX5fsE2eGjL8T-o5qm8Fo3n0)
+![Delicious Late Night Snack Suggestions — photo from Celebrations on the River](https://lh6.googleusercontent.com/jCsMoW_TX0u7pVjpk2fgDx1ol1ROgTdfjEJ1-hS6LjtPSF-p6JNQu_LKDASrlcKcakAUgb89Pyr4XDn_XwA4qxUgyYNwlye3GRewKWXxZgeu13d493Mm5n63bQ8L5bxOX5fsE2eGjL8T-o5qm8Fo3n0)
 
 Having a wing bar is a great way to keep the night alive while your guests are out dancing. There are so many different sauces to choose from including parmesan garlic, BBQ, buffalo and so much more! Having these wings as your late night snack is a tasty and bold option your guests will love.
 
@@ -39,7 +39,7 @@ Ham & turkey with cheese sandwiches are a simple and easy option for a late nigh
 
 **Pizza Bar**
 
-![](https://lh3.googleusercontent.com/0KIJzaYM3YhDv3q55ShKHIg7sT_JL0DnoTsUg-dmydF3gGk6n9SMx06j9V753WpNHTttghNO0L5NAy_ICGqzfVhTuA9-aMK-gB6z5l34unk77jbwVk3ubmt26k7ymZpjD9muge1hIBiEQt6EiwlXogc)
+![Delicious Late Night Snack Suggestions — photo from Celebrations on the River](https://lh3.googleusercontent.com/0KIJzaYM3YhDv3q55ShKHIg7sT_JL0DnoTsUg-dmydF3gGk6n9SMx06j9V753WpNHTttghNO0L5NAy_ICGqzfVhTuA9-aMK-gB6z5l34unk77jbwVk3ubmt26k7ymZpjD9muge1hIBiEQt6EiwlXogc)
 
 The most popular option is having a pizza bar set up because it is easy to grab and bring back to the dance floor to continue having fun. Each pizza is customizable with the toppings you want. Anything from a basic pepperoni and sausage to a yummy Mediterranean chicken pizza; all on top of a thick flaky golden brown pizza crust. It is all up to you!
 

@@ -133,7 +133,7 @@ The Court Yard's private outdoor patio goes above and beyond, with a secluded ar
 - Custom LED Lighting
 - State-of-the-Art Audio System
 
-![](/media/2025/03/Court-Yard-14.jpg)
+![Court Yard 14 at Celebrations on the River](/media/2025/03/Court-Yard-14.jpg)
 
 # Court Yard - Rental Fees
 
@@ -213,7 +213,7 @@ Plan and Price Your Perfect Wedding Without all the Stress.
 
 Tour the Facility with a Professional Wedding Planner
 
-![](/media/2025/03/IMG_8305.jpg)
+![IMG 8305 at Celebrations on the River](/media/2025/03/IMG_8305.jpg)
 
 ## READY TO GET THIS PARTY STARTED?
 
